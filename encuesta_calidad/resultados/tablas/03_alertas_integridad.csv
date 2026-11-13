@@ -1,0 +1,120 @@
+fila_csv,id_encuesta,id_persona,periodo_referencia,regla_id,variable,valor_observado,severidad,descripcion
+88,E20261000087,P20261000606,2026-10,I01,id_persona,P20261000606,REVISAR,ID de persona repetido en su período
+173,E20261000172,P20261000725,2026-10,I01,id_persona,P20261000725,REVISAR,ID de persona repetido en su período
+180,E20261000179,P20261001043,2026-10,I01,id_persona,P20261001043,REVISAR,ID de persona repetido en su período
+356,E20261000355,P20261000355,2026-10,I01,id_persona,P20261000355,REVISAR,ID de persona repetido en su período
+403,E20261000402,P20261000402,2026-10,I01,id_persona,P20261000402,REVISAR,ID de persona repetido en su período
+566,E20261000565,P20261000565,2026-10,I01,id_persona,P20261000565,REVISAR,ID de persona repetido en su período
+586,E20261000585,P20261000585,2026-10,I01,id_persona,P20261000585,REVISAR,ID de persona repetido en su período
+607,E20261000606,P20261000606,2026-10,I01,id_persona,P20261000606,REVISAR,ID de persona repetido en su período
+681,E20261000680,P20261000680,2026-10,I01,id_persona,P20261000680,REVISAR,ID de persona repetido en su período
+715,E20261000714,P20261000585,2026-10,I01,id_persona,P20261000585,REVISAR,ID de persona repetido en su período
+726,E20261000725,P20261000725,2026-10,I01,id_persona,P20261000725,REVISAR,ID de persona repetido en su período
+746,E20261000745,P20261000355,2026-10,I01,id_persona,P20261000355,REVISAR,ID de persona repetido en su período
+805,E20261000804,P20261000680,2026-10,I01,id_persona,P20261000680,REVISAR,ID de persona repetido en su período
+854,E20261000853,P20261000871,2026-10,I01,id_persona,P20261000871,REVISAR,ID de persona repetido en su período
+872,E20261000871,P20261000871,2026-10,I01,id_persona,P20261000871,REVISAR,ID de persona repetido en su período
+1044,E20261001043,P20261001043,2026-10,I01,id_persona,P20261001043,REVISAR,ID de persona repetido en su período
+1130,E20261001129,P20261000402,2026-10,I01,id_persona,P20261000402,REVISAR,ID de persona repetido en su período
+1133,E20261001132,P20261000565,2026-10,I01,id_persona,P20261000565,REVISAR,ID de persona repetido en su período
+1247,E20261101246,P20261101834,2026-11,I01,id_persona,P20261101834,REVISAR,ID de persona repetido en su período
+1311,E20261101310,P20261101912,2026-11,I01,id_persona,P20261101912,REVISAR,ID de persona repetido en su período
+1319,E20261101318,P20261101318,2026-11,I01,id_persona,P20261101318,REVISAR,ID de persona repetido en su período
+1374,E20261101373,P20261101373,2026-11,I01,id_persona,P20261101373,REVISAR,ID de persona repetido en su período
+1461,E20261101460,P20261101460,2026-11,I01,id_persona,P20261101460,REVISAR,ID de persona repetido en su período
+1480,E20261101479,P20261101479,2026-11,I01,id_persona,P20261101479,REVISAR,ID de persona repetido en su período
+1529,E20261101528,P20261101528,2026-11,I01,id_persona,P20261101528,REVISAR,ID de persona repetido en su período
+1578,E20261101577,P20261101318,2026-11,I01,id_persona,P20261101318,REVISAR,ID de persona repetido en su período
+1584,E20261101583,P20261101894,2026-11,I01,id_persona,P20261101894,REVISAR,ID de persona repetido en su período
+1703,E20261101702,P20261101373,2026-11,I01,id_persona,P20261101373,REVISAR,ID de persona repetido en su período
+1835,E20261101834,P20261101834,2026-11,I01,id_persona,P20261101834,REVISAR,ID de persona repetido en su período
+1856,E20261101855,P20261101855,2026-11,I01,id_persona,P20261101855,REVISAR,ID de persona repetido en su período
+1877,E20261101876,P20261101528,2026-11,I01,id_persona,P20261101528,REVISAR,ID de persona repetido en su período
+1895,E20261101894,P20261101894,2026-11,I01,id_persona,P20261101894,REVISAR,ID de persona repetido en su período
+1913,E20261101912,P20261101912,2026-11,I01,id_persona,P20261101912,REVISAR,ID de persona repetido en su período
+1924,E20261101923,P20261101460,2026-11,I01,id_persona,P20261101460,REVISAR,ID de persona repetido en su período
+2237,E20261102236,P20261101479,2026-11,I01,id_persona,P20261101479,REVISAR,ID de persona repetido en su período
+2355,E20261102354,P20261101855,2026-11,I01,id_persona,P20261101855,REVISAR,ID de persona repetido en su período
+20,E20261000019,P20261000019,2026-10,I02,id_hogar,H9999999999,REVISAR,Hogar sin correspondencia en catálogo
+515,E20261000514,P20261000514,2026-10,I02,id_hogar,H9999999999,REVISAR,Hogar sin correspondencia en catálogo
+887,E20261000886,P20261000886,2026-10,I02,id_hogar,H9999999999,REVISAR,Hogar sin correspondencia en catálogo
+1188,E20261001187,P20261001187,2026-10,I02,id_hogar,H9999999999,REVISAR,Hogar sin correspondencia en catálogo
+1386,E20261101385,P20261101385,2026-11,I02,id_hogar,H9999999999,REVISAR,Hogar sin correspondencia en catálogo
+1492,E20261101491,P20261101491,2026-11,I02,id_hogar,H9999999999,REVISAR,Hogar sin correspondencia en catálogo
+1624,E20261101623,P20261101623,2026-11,I02,id_hogar,H9999999999,REVISAR,Hogar sin correspondencia en catálogo
+1690,E20261101689,P20261101689,2026-11,I02,id_hogar,H9999999999,REVISAR,Hogar sin correspondencia en catálogo
+1709,E20261101708,P20261101708,2026-11,I02,id_hogar,H9999999999,REVISAR,Hogar sin correspondencia en catálogo
+1746,E20261101745,P20261101745,2026-11,I02,id_hogar,H9999999999,REVISAR,Hogar sin correspondencia en catálogo
+443,E20261000442,P20261000442,2026-10,I03,id_hogar,NA,REVISAR,ID de hogar ausente
+638,E20261000637,P20261000637,2026-10,I03,id_hogar,NA,REVISAR,ID de hogar ausente
+693,E20261000692,P20261000692,2026-10,I03,id_hogar,NA,REVISAR,ID de hogar ausente
+928,E20261000927,P20261000927,2026-10,I03,id_hogar,NA,REVISAR,ID de hogar ausente
+1312,E20261101311,P20261101311,2026-11,I03,id_hogar,NA,REVISAR,ID de hogar ausente
+242,E20261000241,P20261000241,2026-10,I04,horas_trabajo_semana,0,REVISAR,Ocupado con cero horas
+272,E20261000271,P20261000271,2026-10,I04,horas_trabajo_semana,0,REVISAR,Ocupado con cero horas
+387,E20261000386,P20261000386,2026-10,I04,horas_trabajo_semana,0,REVISAR,Ocupado con cero horas
+850,E20261000849,P20261000849,2026-10,I04,horas_trabajo_semana,0,REVISAR,Ocupado con cero horas
+1393,E20261101392,P20261101392,2026-11,I04,horas_trabajo_semana,0,REVISAR,Ocupado con cero horas
+1404,E20261101403,P20261101403,2026-11,I04,horas_trabajo_semana,0,REVISAR,Ocupado con cero horas
+1469,E20261101468,P20261101468,2026-11,I04,horas_trabajo_semana,0,REVISAR,Ocupado con cero horas
+1504,E20261101503,P20261101503,2026-11,I04,horas_trabajo_semana,0,REVISAR,Ocupado con cero horas
+2039,E20261102038,P20261102038,2026-11,I04,horas_trabajo_semana,0,REVISAR,Ocupado con cero horas
+2136,E20261102135,P20261102135,2026-11,I04,horas_trabajo_semana,0,REVISAR,Ocupado con cero horas
+2276,E20261102275,P20261102275,2026-11,I04,horas_trabajo_semana,0,REVISAR,Ocupado con cero horas
+2282,E20261102281,P20261102281,2026-11,I04,horas_trabajo_semana,0,REVISAR,Ocupado con cero horas
+188,E20261000187,P20261000187,2026-10,I05,horas_trabajo_semana,35,REVISAR,No ocupado con horas positivas
+498,E20261000497,P20261000497,2026-10,I05,horas_trabajo_semana,35,REVISAR,No ocupado con horas positivas
+981,E20261000980,P20261000980,2026-10,I05,horas_trabajo_semana,35,REVISAR,No ocupado con horas positivas
+1335,E20261101334,P20261101334,2026-11,I05,horas_trabajo_semana,35,REVISAR,No ocupado con horas positivas
+1357,E20261101356,P20261101356,2026-11,I05,horas_trabajo_semana,35,REVISAR,No ocupado con horas positivas
+1391,E20261101390,P20261101390,2026-11,I05,horas_trabajo_semana,35,REVISAR,No ocupado con horas positivas
+1594,E20261101593,P20261101593,2026-11,I05,horas_trabajo_semana,35,REVISAR,No ocupado con horas positivas
+1754,E20261101753,P20261101753,2026-11,I05,horas_trabajo_semana,35,REVISAR,No ocupado con horas positivas
+1792,E20261101791,P20261101791,2026-11,I05,horas_trabajo_semana,35,REVISAR,No ocupado con horas positivas
+1899,E20261101898,P20261101898,2026-11,I05,horas_trabajo_semana,35,REVISAR,No ocupado con horas positivas
+1931,E20261101930,P20261101930,2026-11,I05,horas_trabajo_semana,35,REVISAR,No ocupado con horas positivas
+2133,E20261102132,P20261102132,2026-11,I05,horas_trabajo_semana,35,REVISAR,No ocupado con horas positivas
+2186,E20261102185,P20261102185,2026-11,I05,horas_trabajo_semana,35,REVISAR,No ocupado con horas positivas
+2346,E20261102345,P20261102345,2026-11,I05,horas_trabajo_semana,35,REVISAR,No ocupado con horas positivas
+59,E20261000058,P20261000058,2026-10,I06,fecha_entrevista,2026-12-04,REVISAR,Fecha fuera del período de referencia
+154,E20261000153,P20261000153,2026-10,I06,fecha_entrevista,2026-12-04,REVISAR,Fecha fuera del período de referencia
+1028,E20261001027,P20261001027,2026-10,I06,fecha_entrevista,2026-12-04,REVISAR,Fecha fuera del período de referencia
+1357,E20261101356,P20261101356,2026-11,I06,fecha_entrevista,2026-12-04,REVISAR,Fecha fuera del período de referencia
+1635,E20261101634,P20261101634,2026-11,I06,fecha_entrevista,2026-12-04,REVISAR,Fecha fuera del período de referencia
+2053,E20261102052,P20261102052,2026-11,I06,fecha_entrevista,2026-12-04,REVISAR,Fecha fuera del período de referencia
+112,E20261000111,P20261000111,2026-10,I07,provincia,PICHINCHA,REVISAR,Provincia de persona difiere de hogar
+538,E20261000537,P20261000537,2026-10,I07,provincia,Guayas ,REVISAR,Provincia de persona difiere de hogar
+548,E20261000547,P20261000547,2026-10,I07,provincia,Guayas ,REVISAR,Provincia de persona difiere de hogar
+995,E20261000994,P20261000994,2026-10,I07,provincia,Guayas ,REVISAR,Provincia de persona difiere de hogar
+1129,E20261001128,P20261001128,2026-10,I07,provincia,Guayas ,REVISAR,Provincia de persona difiere de hogar
+1472,E20261101471,P20261101471,2026-11,I07,provincia,PICHINCHA,REVISAR,Provincia de persona difiere de hogar
+1547,E20261101546,P20261101546,2026-11,I07,provincia,Sin provincia,REVISAR,Provincia de persona difiere de hogar
+1681,E20261101680,P20261101680,2026-11,I07,provincia,Sin provincia,REVISAR,Provincia de persona difiere de hogar
+1767,E20261101766,P20261101766,2026-11,I07,provincia,Sin provincia,REVISAR,Provincia de persona difiere de hogar
+1931,E20261101930,P20261101930,2026-11,I07,provincia,Guayas ,REVISAR,Provincia de persona difiere de hogar
+2101,E20261102100,P20261102100,2026-11,I07,provincia,PICHINCHA,REVISAR,Provincia de persona difiere de hogar
+2147,E20261102146,P20261102146,2026-11,I07,provincia,Sin provincia,REVISAR,Provincia de persona difiere de hogar
+2329,E20261102328,P20261102328,2026-11,I07,provincia,Sin provincia,REVISAR,Provincia de persona difiere de hogar
+641,E20261000640,P20261000640,2026-10,I08,zona,Rural ,REVISAR,Zona de persona difiere de hogar
+858,E20261000857,P20261000857,2026-10,I08,zona,Rural ,REVISAR,Zona de persona difiere de hogar
+993,E20261000992,P20261000992,2026-10,I08,zona,99,REVISAR,Zona de persona difiere de hogar
+1431,E20261101430,P20261101430,2026-11,I08,zona,99,REVISAR,Zona de persona difiere de hogar
+1769,E20261101768,P20261101768,2026-11,I08,zona,Rural ,REVISAR,Zona de persona difiere de hogar
+1831,E20261101830,P20261101830,2026-11,I08,zona,Rural ,REVISAR,Zona de persona difiere de hogar
+1975,E20261101974,P20261101974,2026-11,I08,zona,99,REVISAR,Zona de persona difiere de hogar
+2047,E20261102046,P20261102046,2026-11,I08,zona,URBANA,REVISAR,Zona de persona difiere de hogar
+120,E20261000119,P20261000119,2026-10,I09,miembros_hogar,12,REVISAR,Tamaño registrado difiere de catálogo
+370,E20261000369,P20261000369,2026-10,I09,miembros_hogar,12,REVISAR,Tamaño registrado difiere de catálogo
+410,E20261000409,P20261000409,2026-10,I09,miembros_hogar,12,REVISAR,Tamaño registrado difiere de catálogo
+558,E20261000557,P20261000557,2026-10,I09,miembros_hogar,12,REVISAR,Tamaño registrado difiere de catálogo
+912,E20261000911,P20261000911,2026-10,I09,miembros_hogar,12,REVISAR,Tamaño registrado difiere de catálogo
+1487,E20261101486,P20261101486,2026-11,I09,miembros_hogar,12,REVISAR,Tamaño registrado difiere de catálogo
+1665,E20261101664,P20261101664,2026-11,I09,miembros_hogar,12,REVISAR,Tamaño registrado difiere de catálogo
+1666,E20261101665,P20261101665,2026-11,I09,miembros_hogar,12,REVISAR,Tamaño registrado difiere de catálogo
+1974,E20261101973,P20261101973,2026-11,I09,miembros_hogar,12,REVISAR,Tamaño registrado difiere de catálogo
+662,E20261000661,P20261000661,2026-10,I10,pobreza_didactica,Pobre,REVISAR,Clasificación no coincide con catálogo de hogar
+937,E20261000936,P20261000936,2026-10,I10,pobreza_didactica,Pobre,REVISAR,Clasificación no coincide con catálogo de hogar
+1201,E20261001200,P20261001200,2026-10,I10,pobreza_didactica,Pobre,REVISAR,Clasificación no coincide con catálogo de hogar
+1327,E20261101326,P20261101326,2026-11,I10,pobreza_didactica,No pobre,REVISAR,Clasificación no coincide con catálogo de hogar
+1756,E20261101755,P20261101755,2026-11,I10,pobreza_didactica,Pobre,REVISAR,Clasificación no coincide con catálogo de hogar
+1838,E20261101837,P20261101837,2026-11,I10,pobreza_didactica,Pobre,REVISAR,Clasificación no coincide con catálogo de hogar

@@ -1,0 +1,9 @@
+indicador,numerador,denominador,porcentaje,escenario
+Completitud,14354,14400,99.68,Original
+Validez,11903,11954,99.57,Original
+Unicidad,2364,2400,98.5,Original
+Consistencia,4762,4794,99.33,Original
+Completitud,14354,14400,99.68,Propuesta
+Validez,11917,11954,99.69,Propuesta
+Unicidad,2364,2400,98.5,Propuesta
+Consistencia,4762,4794,99.33,Propuesta

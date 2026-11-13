@@ -1,0 +1,13 @@
+{
+  "datos": "SINTETICOS / NO INEC",
+  "semilla": 426112,
+  "filas_personas": 2400,
+  "filas_hogares": 800,
+  "periodos": [
+    "2026-10",
+    "2026-11"
+  ],
+  "umbral_pobreza_ficticio_usd_por_persona_mes": 185,
+  "definicion": "pobreza_didactica= Pobre si ingreso_hogar_mensual_usd/miembros_hogar <185; No pobre en caso contrario. No es indicador oficial.",
+  "anotacion": "Muestra desbalanceada deliberadamente: no representativa ni comparable causalmente. Incoherencias incluidas para el taller."
+}

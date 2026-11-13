@@ -1,0 +1,17 @@
+indicador,numerador,denominador,porcentaje,periodo,escenario
+Completitud,7175,7200,99.65,2026-10,Original
+Validez,5955,5975,99.67,2026-10,Original
+Unicidad,1182,1200,98.5,2026-10,Original
+Consistencia,2386,2396,99.58,2026-10,Original
+Completitud,7179,7200,99.71,2026-11,Original
+Validez,5948,5979,99.48,2026-11,Original
+Unicidad,1182,1200,98.5,2026-11,Original
+Consistencia,2376,2398,99.08,2026-11,Original
+Completitud,7175,7200,99.65,2026-10,Propuesta
+Validez,5961,5975,99.77,2026-10,Propuesta
+Unicidad,1182,1200,98.5,2026-10,Propuesta
+Consistencia,2386,2396,99.58,2026-10,Propuesta
+Completitud,7179,7200,99.71,2026-11,Propuesta
+Validez,5956,5979,99.62,2026-11,Propuesta
+Unicidad,1182,1200,98.5,2026-11,Propuesta
+Consistencia,2376,2398,99.08,2026-11,Propuesta

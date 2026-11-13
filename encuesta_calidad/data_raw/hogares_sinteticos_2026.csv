@@ -1,0 +1,801 @@
+id_hogar,periodo_referencia,provincia,zona,miembros_hogar,ingreso_hogar_mensual_usd,ingreso_per_capita_usd,pobreza_didactica,tipo_vivienda,acceso_agua,acceso_saneamiento
+H2026100001,2026-10,Pichincha,Urbana,3,497.68,165.89,Pobre,Casa,Si,Si
+H2026100002,2026-10,Azuay,Rural,3,882.61,294.20,No pobre,Casa,Si,Si
+H2026100003,2026-10,Azuay,Urbana,6,2580.22,430.04,No pobre,Cuarto,Si,Si
+H2026100004,2026-10,Azuay,Urbana,4,953.26,238.31,No pobre,Departamento,Si,Si
+H2026100005,2026-10,Pichincha,Urbana,3,1173.36,391.12,No pobre,Casa,Si,Si
+H2026100006,2026-10,Guayas,Urbana,5,3260.57,652.11,No pobre,Casa,Si,Si
+H2026100007,2026-10,Guayas,Rural,4,376.20,94.05,Pobre,Casa,Si,Si
+H2026100008,2026-10,Azuay,Urbana,2,438.79,219.40,No pobre,Casa,Si,Si
+H2026100009,2026-10,Guayas,Urbana,1,289.20,289.20,No pobre,Casa,Si,Si
+H2026100010,2026-10,Cotopaxi,Urbana,5,2458.72,491.74,No pobre,Casa,Si,No
+H2026100011,2026-10,Azuay,Urbana,7,3162.09,451.73,No pobre,Departamento,Si,Si
+H2026100012,2026-10,Manabi,Urbana,4,857.86,214.47,No pobre,Casa,Si,Si
+H2026100013,2026-10,Cotopaxi,Urbana,1,259.59,259.59,No pobre,Casa,Si,Si
+H2026100014,2026-10,Manabi,Rural,3,1885.94,628.65,No pobre,Cuarto,Si,Si
+H2026100015,2026-10,Azuay,Urbana,5,3194.33,638.87,No pobre,Departamento,Si,No
+H2026100016,2026-10,Azuay,Rural,4,403.24,100.81,Pobre,Casa,Si,Si
+H2026100017,2026-10,Guayas,Urbana,3,2175.07,725.02,No pobre,Casa,Si,Si
+H2026100018,2026-10,Pichincha,Urbana,6,3086.02,514.34,No pobre,Casa,Si,Si
+H2026100019,2026-10,Guayas,Urbana,1,637.04,637.04,No pobre,Casa,Si,Si
+H2026100020,2026-10,Pichincha,Urbana,3,871.40,290.47,No pobre,Departamento,Si,Si
+H2026100021,2026-10,Pichincha,Urbana,3,598.56,199.52,No pobre,Casa,Si,Si
+H2026100022,2026-10,Cotopaxi,Urbana,2,1195.84,597.92,No pobre,Casa,Si,Si
+H2026100023,2026-10,Guayas,Urbana,1,222.37,222.37,No pobre,Casa,Si,Si
+H2026100024,2026-10,Pichincha,Urbana,3,2878.07,959.36,No pobre,Cuarto,No,Si
+H2026100025,2026-10,Manabi,Urbana,2,480.79,240.40,No pobre,Casa,Si,No
+H2026100026,2026-10,Guayas,Urbana,2,227.39,113.69,Pobre,Casa,Si,Si
+H2026100027,2026-10,Azuay,Urbana,4,625.01,156.25,Pobre,Casa,Si,Si
+H2026100028,2026-10,Manabi,Urbana,1,108.47,108.47,Pobre,Departamento,Si,No
+H2026100029,2026-10,Cotopaxi,Urbana,1,260.50,260.50,No pobre,Departamento,Si,Si
+H2026100030,2026-10,Guayas,Urbana,4,951.45,237.86,No pobre,Casa,Si,Si
+H2026100031,2026-10,Pichincha,Urbana,5,1151.97,230.39,No pobre,Casa,Si,Si
+H2026100032,2026-10,Pichincha,Urbana,5,1743.23,348.65,No pobre,Casa,Si,Si
+H2026100033,2026-10,Azuay,Rural,2,155.71,77.86,Pobre,Casa,Si,Si
+H2026100034,2026-10,Guayas,Rural,3,578.31,192.77,No pobre,Casa,Si,Si
+H2026100035,2026-10,Azuay,Urbana,4,1523.11,380.78,No pobre,Casa,Si,Si
+H2026100036,2026-10,Pichincha,Urbana,4,1424.94,356.24,No pobre,Casa,No,Si
+H2026100037,2026-10,Pichincha,Urbana,3,608.49,202.83,No pobre,Departamento,Si,Si
+H2026100038,2026-10,Guayas,Urbana,1,79.77,79.77,Pobre,Cuarto,Si,No
+H2026100039,2026-10,Pichincha,Rural,2,323.33,161.66,Pobre,Casa,Si,Si
+H2026100040,2026-10,Pichincha,Urbana,5,1975.67,395.13,No pobre,Casa,Si,Si
+H2026100041,2026-10,Pichincha,Urbana,1,235.81,235.81,No pobre,Casa,Si,Si
+H2026100042,2026-10,Pichincha,Urbana,5,3640.05,728.01,No pobre,Casa,Si,Si
+H2026100043,2026-10,Cotopaxi,Urbana,3,365.25,121.75,Pobre,Departamento,Si,Si
+H2026100044,2026-10,Pichincha,Rural,2,156.31,78.16,Pobre,Departamento,Si,Si
+H2026100045,2026-10,Pichincha,Urbana,3,1591.25,530.42,No pobre,Casa,Si,Si
+H2026100046,2026-10,Manabi,Urbana,5,3599.12,719.82,No pobre,Casa,Si,Si
+H2026100047,2026-10,Pichincha,Urbana,6,1449.07,241.51,No pobre,Casa,Si,No
+H2026100048,2026-10,Pichincha,Urbana,6,2221.20,370.20,No pobre,Casa,Si,Si
+H2026100049,2026-10,Cotopaxi,Urbana,2,3262.09,1631.05,No pobre,Departamento,Si,Si
+H2026100050,2026-10,Cotopaxi,Urbana,2,1035.91,517.96,No pobre,Casa,No,Si
+H2026100051,2026-10,Pichincha,Urbana,3,2138.97,712.99,No pobre,Casa,Si,Si
+H2026100052,2026-10,Pichincha,Urbana,3,447.41,149.14,Pobre,Departamento,Si,Si
+H2026100053,2026-10,Cotopaxi,Urbana,4,1265.83,316.46,No pobre,Casa,Si,Si
+H2026100054,2026-10,Guayas,Urbana,2,696.61,348.31,No pobre,Casa,Si,Si
+H2026100055,2026-10,Cotopaxi,Urbana,1,165.86,165.86,Pobre,Casa,Si,Si
+H2026100056,2026-10,Guayas,Urbana,3,886.40,295.47,No pobre,Casa,Si,Si
+H2026100057,2026-10,Pichincha,Urbana,3,284.91,94.97,Pobre,Departamento,Si,Si
+H2026100058,2026-10,Azuay,Urbana,1,265.76,265.76,No pobre,Departamento,Si,Si
+H2026100059,2026-10,Pichincha,Urbana,4,833.62,208.41,No pobre,Casa,Si,Si
+H2026100060,2026-10,Manabi,Rural,3,350.05,116.68,Pobre,Departamento,Si,Si
+H2026100061,2026-10,Manabi,Urbana,2,801.06,400.53,No pobre,Casa,Si,Si
+H2026100062,2026-10,Pichincha,Urbana,1,461.62,461.62,No pobre,Casa,Si,Si
+H2026100063,2026-10,Pichincha,Rural,5,3038.97,607.79,No pobre,Casa,Si,Si
+H2026100064,2026-10,Cotopaxi,Urbana,4,1528.55,382.14,No pobre,Casa,Si,Si
+H2026100065,2026-10,Azuay,Urbana,2,623.29,311.64,No pobre,Departamento,Si,Si
+H2026100066,2026-10,Azuay,Urbana,3,475.65,158.55,Pobre,Casa,Si,Si
+H2026100067,2026-10,Pichincha,Urbana,7,536.94,76.71,Pobre,Casa,Si,Si
+H2026100068,2026-10,Pichincha,Rural,2,524.91,262.45,No pobre,Casa,Si,Si
+H2026100069,2026-10,Pichincha,Urbana,2,1258.18,629.09,No pobre,Casa,Si,Si
+H2026100070,2026-10,Cotopaxi,Urbana,2,148.17,74.08,Pobre,Cuarto,Si,Si
+H2026100071,2026-10,Guayas,Urbana,3,1770.66,590.22,No pobre,Casa,Si,Si
+H2026100072,2026-10,Guayas,Urbana,2,3862.48,1931.24,No pobre,Casa,Si,Si
+H2026100073,2026-10,Pichincha,Urbana,3,388.37,129.46,Pobre,Casa,Si,No
+H2026100074,2026-10,Pichincha,Urbana,3,402.32,134.11,Pobre,Cuarto,Si,Si
+H2026100075,2026-10,Pichincha,Rural,4,1177.72,294.43,No pobre,Casa,Si,Si
+H2026100076,2026-10,Guayas,Urbana,3,2071.47,690.49,No pobre,Casa,Si,No
+H2026100077,2026-10,Azuay,Rural,3,1753.48,584.49,No pobre,Departamento,Si,Si
+H2026100078,2026-10,Cotopaxi,Urbana,3,315.68,105.23,Pobre,Casa,Si,Si
+H2026100079,2026-10,Guayas,Urbana,2,273.55,136.78,Pobre,Cuarto,Si,Si
+H2026100080,2026-10,Pichincha,Urbana,6,1452.87,242.14,No pobre,Casa,Si,Si
+H2026100081,2026-10,Pichincha,Urbana,4,4936.97,1234.24,No pobre,Casa,Si,Si
+H2026100082,2026-10,Guayas,Urbana,4,1548.90,387.23,No pobre,Casa,Si,Si
+H2026100083,2026-10,Guayas,Rural,3,649.77,216.59,No pobre,Casa,Si,Si
+H2026100084,2026-10,Pichincha,Urbana,1,74.94,74.94,Pobre,Casa,Si,Si
+H2026100085,2026-10,Cotopaxi,Urbana,2,837.01,418.50,No pobre,Casa,Si,Si
+H2026100086,2026-10,Manabi,Urbana,2,750.91,375.45,No pobre,Cuarto,Si,Si
+H2026100087,2026-10,Cotopaxi,Rural,1,296.99,296.99,No pobre,Casa,Si,Si
+H2026100088,2026-10,Cotopaxi,Urbana,4,1850.24,462.56,No pobre,Departamento,Si,Si
+H2026100089,2026-10,Guayas,Rural,3,1130.16,376.72,No pobre,Cuarto,Si,Si
+H2026100090,2026-10,Pichincha,Urbana,2,896.81,448.40,No pobre,Departamento,No,Si
+H2026100091,2026-10,Guayas,Urbana,4,1240.37,310.09,No pobre,Casa,Si,Si
+H2026100092,2026-10,Pichincha,Urbana,4,2165.89,541.47,No pobre,Casa,Si,No
+H2026100093,2026-10,Azuay,Rural,4,2214.61,553.65,No pobre,Casa,Si,No
+H2026100094,2026-10,Pichincha,Urbana,3,298.63,99.54,Pobre,Casa,No,Si
+H2026100095,2026-10,Manabi,Rural,2,1305.50,652.75,No pobre,Casa,Si,Si
+H2026100096,2026-10,Manabi,Urbana,2,1011.41,505.70,No pobre,Cuarto,Si,Si
+H2026100097,2026-10,Pichincha,Urbana,4,1436.39,359.10,No pobre,Cuarto,Si,Si
+H2026100098,2026-10,Pichincha,Urbana,2,3668.02,1834.01,No pobre,Casa,No,Si
+H2026100099,2026-10,Pichincha,Rural,5,695.62,139.12,Pobre,Cuarto,Si,Si
+H2026100100,2026-10,Pichincha,Rural,4,6489.58,1622.39,No pobre,Casa,Si,Si
+H2026100101,2026-10,Pichincha,Urbana,4,7172.43,1793.11,No pobre,Departamento,Si,No
+H2026100102,2026-10,Azuay,Urbana,1,239.99,239.99,No pobre,Casa,Si,Si
+H2026100103,2026-10,Manabi,Urbana,2,1314.24,657.12,No pobre,Casa,Si,Si
+H2026100104,2026-10,Guayas,Urbana,6,4284.74,714.12,No pobre,Departamento,Si,Si
+H2026100105,2026-10,Cotopaxi,Urbana,2,539.49,269.75,No pobre,Casa,Si,No
+H2026100106,2026-10,Guayas,Urbana,3,688.97,229.66,No pobre,Casa,Si,Si
+H2026100107,2026-10,Guayas,Urbana,2,941.09,470.55,No pobre,Departamento,Si,Si
+H2026100108,2026-10,Azuay,Urbana,4,1607.38,401.85,No pobre,Casa,Si,Si
+H2026100109,2026-10,Pichincha,Urbana,3,1327.40,442.47,No pobre,Departamento,Si,Si
+H2026100110,2026-10,Manabi,Urbana,5,1648.09,329.62,No pobre,Casa,Si,Si
+H2026100111,2026-10,Azuay,Urbana,1,242.89,242.89,No pobre,Departamento,Si,Si
+H2026100112,2026-10,Pichincha,Rural,3,447.40,149.13,Pobre,Casa,Si,Si
+H2026100113,2026-10,Guayas,Urbana,5,2317.10,463.42,No pobre,Casa,Si,Si
+H2026100114,2026-10,Azuay,Urbana,3,1063.48,354.49,No pobre,Casa,Si,Si
+H2026100115,2026-10,Azuay,Urbana,3,683.95,227.98,No pobre,Cuarto,Si,Si
+H2026100116,2026-10,Pichincha,Rural,3,490.10,163.37,Pobre,Departamento,Si,No
+H2026100117,2026-10,Manabi,Urbana,3,2003.98,667.99,No pobre,Departamento,Si,Si
+H2026100118,2026-10,Azuay,Urbana,3,1160.95,386.98,No pobre,Casa,No,Si
+H2026100119,2026-10,Pichincha,Urbana,1,311.75,311.75,No pobre,Departamento,Si,Si
+H2026100120,2026-10,Azuay,Urbana,3,1102.68,367.56,No pobre,Departamento,Si,Si
+H2026100121,2026-10,Azuay,Urbana,3,1661.54,553.85,No pobre,Casa,Si,Si
+H2026100122,2026-10,Manabi,Urbana,2,2548.47,1274.23,No pobre,Casa,Si,Si
+H2026100123,2026-10,Manabi,Urbana,3,704.25,234.75,No pobre,Casa,Si,Si
+H2026100124,2026-10,Guayas,Urbana,4,489.00,122.25,Pobre,Casa,Si,No
+H2026100125,2026-10,Pichincha,Urbana,2,856.80,428.40,No pobre,Casa,Si,Si
+H2026100126,2026-10,Guayas,Urbana,3,605.56,201.85,No pobre,Casa,Si,Si
+H2026100127,2026-10,Pichincha,Urbana,2,223.68,111.84,Pobre,Casa,Si,Si
+H2026100128,2026-10,Guayas,Urbana,1,97.56,97.56,Pobre,Casa,Si,Si
+H2026100129,2026-10,Pichincha,Urbana,4,822.13,205.53,No pobre,Casa,Si,Si
+H2026100130,2026-10,Azuay,Urbana,2,3822.34,1911.17,No pobre,Casa,Si,Si
+H2026100131,2026-10,Azuay,Urbana,1,224.83,224.83,No pobre,Casa,Si,Si
+H2026100132,2026-10,Pichincha,Rural,3,1475.04,491.68,No pobre,Departamento,Si,Si
+H2026100133,2026-10,Guayas,Rural,6,3004.01,500.67,No pobre,Casa,Si,Si
+H2026100134,2026-10,Manabi,Rural,3,1917.32,639.11,No pobre,Casa,Si,Si
+H2026100135,2026-10,Pichincha,Urbana,2,293.77,146.88,Pobre,Departamento,Si,Si
+H2026100136,2026-10,Pichincha,Urbana,2,1163.57,581.78,No pobre,Casa,Si,Si
+H2026100137,2026-10,Cotopaxi,Urbana,1,662.37,662.37,No pobre,Departamento,Si,No
+H2026100138,2026-10,Pichincha,Urbana,4,791.22,197.81,No pobre,Casa,Si,Si
+H2026100139,2026-10,Cotopaxi,Rural,2,1070.97,535.49,No pobre,Departamento,Si,Si
+H2026100140,2026-10,Pichincha,Rural,3,612.79,204.26,No pobre,Cuarto,Si,Si
+H2026100141,2026-10,Azuay,Urbana,1,272.35,272.35,No pobre,Casa,Si,Si
+H2026100142,2026-10,Guayas,Urbana,3,728.42,242.81,No pobre,Departamento,Si,Si
+H2026100143,2026-10,Pichincha,Urbana,3,650.39,216.80,No pobre,Casa,Si,Si
+H2026100144,2026-10,Pichincha,Urbana,3,1898.16,632.72,No pobre,Cuarto,Si,Si
+H2026100145,2026-10,Cotopaxi,Urbana,2,592.59,296.30,No pobre,Casa,Si,Si
+H2026100146,2026-10,Guayas,Urbana,1,342.88,342.88,No pobre,Casa,No,Si
+H2026100147,2026-10,Guayas,Urbana,2,577.19,288.60,No pobre,Casa,Si,Si
+H2026100148,2026-10,Azuay,Urbana,3,512.32,170.77,Pobre,Casa,Si,Si
+H2026100149,2026-10,Cotopaxi,Urbana,4,503.79,125.95,Pobre,Casa,Si,Si
+H2026100150,2026-10,Pichincha,Urbana,1,292.27,292.27,No pobre,Casa,Si,Si
+H2026100151,2026-10,Guayas,Urbana,2,563.49,281.75,No pobre,Departamento,No,Si
+H2026100152,2026-10,Azuay,Urbana,3,1463.13,487.71,No pobre,Casa,No,Si
+H2026100153,2026-10,Pichincha,Urbana,1,1876.51,1876.51,No pobre,Casa,Si,Si
+H2026100154,2026-10,Azuay,Rural,2,2061.14,1030.57,No pobre,Casa,Si,Si
+H2026100155,2026-10,Pichincha,Urbana,4,2382.67,595.67,No pobre,Casa,Si,Si
+H2026100156,2026-10,Guayas,Urbana,2,592.16,296.08,No pobre,Casa,Si,Si
+H2026100157,2026-10,Pichincha,Urbana,3,233.35,77.78,Pobre,Cuarto,Si,Si
+H2026100158,2026-10,Pichincha,Urbana,7,1642.19,234.60,No pobre,Departamento,Si,No
+H2026100159,2026-10,Pichincha,Urbana,2,471.39,235.69,No pobre,Cuarto,Si,Si
+H2026100160,2026-10,Cotopaxi,Urbana,3,1645.74,548.58,No pobre,Casa,Si,Si
+H2026100161,2026-10,Pichincha,Urbana,2,270.69,135.34,Pobre,Casa,Si,Si
+H2026100162,2026-10,Pichincha,Urbana,3,861.84,287.28,No pobre,Casa,Si,Si
+H2026100163,2026-10,Guayas,Urbana,1,402.07,402.07,No pobre,Casa,Si,Si
+H2026100164,2026-10,Guayas,Urbana,3,1337.34,445.78,No pobre,Casa,Si,Si
+H2026100165,2026-10,Manabi,Urbana,3,1880.29,626.76,No pobre,Casa,Si,No
+H2026100166,2026-10,Pichincha,Urbana,2,868.98,434.49,No pobre,Casa,Si,Si
+H2026100167,2026-10,Pichincha,Urbana,1,115.74,115.74,Pobre,Departamento,Si,Si
+H2026100168,2026-10,Guayas,Rural,4,2020.83,505.21,No pobre,Departamento,Si,Si
+H2026100169,2026-10,Guayas,Rural,3,1672.05,557.35,No pobre,Casa,Si,Si
+H2026100170,2026-10,Pichincha,Urbana,5,1365.11,273.02,No pobre,Departamento,No,Si
+H2026100171,2026-10,Pichincha,Urbana,2,266.80,133.40,Pobre,Departamento,Si,Si
+H2026100172,2026-10,Pichincha,Urbana,5,3501.64,700.33,No pobre,Casa,Si,Si
+H2026100173,2026-10,Pichincha,Rural,4,2770.35,692.59,No pobre,Casa,Si,Si
+H2026100174,2026-10,Pichincha,Urbana,1,560.40,560.40,No pobre,Casa,Si,Si
+H2026100175,2026-10,Manabi,Urbana,1,564.71,564.71,No pobre,Casa,Si,Si
+H2026100176,2026-10,Cotopaxi,Rural,5,1125.05,225.01,No pobre,Casa,Si,Si
+H2026100177,2026-10,Azuay,Urbana,2,488.17,244.09,No pobre,Cuarto,Si,Si
+H2026100178,2026-10,Pichincha,Urbana,6,3900.53,650.09,No pobre,Casa,Si,Si
+H2026100179,2026-10,Pichincha,Urbana,2,804.44,402.22,No pobre,Casa,Si,Si
+H2026100180,2026-10,Cotopaxi,Urbana,2,538.10,269.05,No pobre,Casa,Si,Si
+H2026100181,2026-10,Azuay,Urbana,7,1239.80,177.11,Pobre,Casa,No,Si
+H2026100182,2026-10,Pichincha,Urbana,2,1434.87,717.43,No pobre,Casa,Si,No
+H2026100183,2026-10,Pichincha,Urbana,2,415.94,207.97,No pobre,Casa,Si,Si
+H2026100184,2026-10,Guayas,Urbana,3,493.32,164.44,Pobre,Cuarto,Si,No
+H2026100185,2026-10,Pichincha,Urbana,4,941.65,235.41,No pobre,Cuarto,No,Si
+H2026100186,2026-10,Azuay,Urbana,1,1534.71,1534.71,No pobre,Casa,Si,Si
+H2026100187,2026-10,Manabi,Urbana,3,1622.34,540.78,No pobre,Casa,Si,Si
+H2026100188,2026-10,Pichincha,Urbana,2,578.47,289.24,No pobre,Casa,Si,Si
+H2026100189,2026-10,Pichincha,Urbana,1,219.77,219.77,No pobre,Cuarto,Si,Si
+H2026100190,2026-10,Manabi,Urbana,6,4028.79,671.47,No pobre,Casa,Si,Si
+H2026100191,2026-10,Guayas,Urbana,4,2191.97,547.99,No pobre,Casa,Si,Si
+H2026100192,2026-10,Guayas,Urbana,3,468.58,156.19,Pobre,Casa,Si,Si
+H2026100193,2026-10,Pichincha,Urbana,3,825.86,275.29,No pobre,Departamento,Si,Si
+H2026100194,2026-10,Manabi,Urbana,1,614.17,614.17,No pobre,Departamento,Si,Si
+H2026100195,2026-10,Manabi,Urbana,5,1284.80,256.96,No pobre,Departamento,No,Si
+H2026100196,2026-10,Guayas,Urbana,1,409.88,409.88,No pobre,Departamento,Si,Si
+H2026100197,2026-10,Pichincha,Urbana,3,732.65,244.22,No pobre,Casa,Si,Si
+H2026100198,2026-10,Cotopaxi,Urbana,1,460.40,460.40,No pobre,Departamento,Si,Si
+H2026100199,2026-10,Guayas,Rural,7,2706.73,386.68,No pobre,Casa,Si,Si
+H2026100200,2026-10,Cotopaxi,Urbana,5,2121.89,424.38,No pobre,Departamento,Si,No
+H2026100201,2026-10,Manabi,Urbana,4,429.79,107.45,Pobre,Casa,Si,No
+H2026100202,2026-10,Guayas,Urbana,5,3315.08,663.02,No pobre,Casa,Si,Si
+H2026100203,2026-10,Guayas,Rural,2,574.19,287.10,No pobre,Casa,Si,Si
+H2026100204,2026-10,Guayas,Urbana,1,510.26,510.26,No pobre,Casa,Si,Si
+H2026100205,2026-10,Guayas,Rural,4,562.69,140.67,Pobre,Casa,Si,Si
+H2026100206,2026-10,Azuay,Urbana,4,951.56,237.89,No pobre,Casa,Si,Si
+H2026100207,2026-10,Pichincha,Urbana,3,1427.01,475.67,No pobre,Casa,Si,Si
+H2026100208,2026-10,Pichincha,Urbana,3,837.70,279.23,No pobre,Casa,Si,Si
+H2026100209,2026-10,Pichincha,Rural,6,1440.47,240.08,No pobre,Cuarto,Si,Si
+H2026100210,2026-10,Azuay,Urbana,4,1182.70,295.68,No pobre,Casa,Si,Si
+H2026100211,2026-10,Pichincha,Urbana,4,1026.75,256.69,No pobre,Casa,Si,Si
+H2026100212,2026-10,Cotopaxi,Urbana,2,2671.62,1335.81,No pobre,Casa,Si,Si
+H2026100213,2026-10,Guayas,Urbana,7,1812.47,258.92,No pobre,Casa,Si,Si
+H2026100214,2026-10,Pichincha,Urbana,2,924.49,462.25,No pobre,Departamento,Si,Si
+H2026100215,2026-10,Pichincha,Urbana,4,396.08,99.02,Pobre,Casa,Si,Si
+H2026100216,2026-10,Pichincha,Rural,1,490.21,490.21,No pobre,Casa,Si,Si
+H2026100217,2026-10,Manabi,Urbana,2,427.69,213.84,No pobre,Casa,Si,Si
+H2026100218,2026-10,Cotopaxi,Urbana,3,1236.01,412.00,No pobre,Departamento,Si,Si
+H2026100219,2026-10,Pichincha,Rural,3,302.27,100.76,Pobre,Casa,Si,Si
+H2026100220,2026-10,Guayas,Urbana,2,1895.93,947.97,No pobre,Departamento,Si,Si
+H2026100221,2026-10,Guayas,Urbana,3,625.78,208.59,No pobre,Casa,Si,Si
+H2026100222,2026-10,Manabi,Urbana,2,1102.52,551.26,No pobre,Departamento,Si,Si
+H2026100223,2026-10,Guayas,Urbana,4,1548.39,387.10,No pobre,Casa,No,Si
+H2026100224,2026-10,Pichincha,Urbana,3,730.76,243.59,No pobre,Departamento,Si,Si
+H2026100225,2026-10,Guayas,Urbana,3,1417.12,472.37,No pobre,Casa,Si,Si
+H2026100226,2026-10,Azuay,Urbana,4,4105.22,1026.31,No pobre,Departamento,Si,Si
+H2026100227,2026-10,Pichincha,Urbana,2,520.12,260.06,No pobre,Casa,Si,Si
+H2026100228,2026-10,Pichincha,Urbana,1,1239.58,1239.58,No pobre,Casa,Si,Si
+H2026100229,2026-10,Guayas,Urbana,2,456.01,228.00,No pobre,Cuarto,Si,Si
+H2026100230,2026-10,Guayas,Urbana,3,1142.32,380.77,No pobre,Casa,Si,No
+H2026100231,2026-10,Pichincha,Urbana,5,1492.78,298.56,No pobre,Casa,Si,Si
+H2026100232,2026-10,Azuay,Urbana,1,1496.05,1496.05,No pobre,Cuarto,Si,Si
+H2026100233,2026-10,Guayas,Urbana,3,5352.68,1784.23,No pobre,Casa,Si,Si
+H2026100234,2026-10,Guayas,Urbana,2,227.21,113.61,Pobre,Departamento,Si,Si
+H2026100235,2026-10,Pichincha,Urbana,1,164.29,164.29,Pobre,Departamento,Si,Si
+H2026100236,2026-10,Pichincha,Urbana,3,516.25,172.08,Pobre,Casa,Si,No
+H2026100237,2026-10,Guayas,Rural,3,613.91,204.64,No pobre,Casa,No,Si
+H2026100238,2026-10,Azuay,Urbana,3,1685.47,561.82,No pobre,Casa,Si,Si
+H2026100239,2026-10,Manabi,Urbana,4,645.01,161.25,Pobre,Casa,No,Si
+H2026100240,2026-10,Guayas,Rural,2,1450.87,725.43,No pobre,Cuarto,Si,Si
+H2026100241,2026-10,Guayas,Urbana,3,757.26,252.42,No pobre,Departamento,Si,Si
+H2026100242,2026-10,Pichincha,Urbana,3,381.28,127.09,Pobre,Casa,Si,Si
+H2026100243,2026-10,Guayas,Urbana,2,512.66,256.33,No pobre,Departamento,No,Si
+H2026100244,2026-10,Cotopaxi,Urbana,3,752.86,250.95,No pobre,Departamento,Si,Si
+H2026100245,2026-10,Pichincha,Urbana,2,150.42,75.21,Pobre,Casa,Si,Si
+H2026100246,2026-10,Pichincha,Urbana,7,980.17,140.02,Pobre,Casa,No,Si
+H2026100247,2026-10,Pichincha,Urbana,4,4774.36,1193.59,No pobre,Departamento,Si,Si
+H2026100248,2026-10,Azuay,Urbana,2,3703.27,1851.63,No pobre,Casa,Si,Si
+H2026100249,2026-10,Manabi,Urbana,2,1397.65,698.83,No pobre,Casa,Si,Si
+H2026100250,2026-10,Pichincha,Urbana,4,825.68,206.42,No pobre,Casa,Si,Si
+H2026100251,2026-10,Guayas,Urbana,1,108.84,108.84,Pobre,Casa,Si,Si
+H2026100252,2026-10,Guayas,Urbana,2,748.56,374.28,No pobre,Cuarto,Si,Si
+H2026100253,2026-10,Pichincha,Rural,3,5292.10,1764.03,No pobre,Departamento,Si,Si
+H2026100254,2026-10,Manabi,Urbana,3,1117.45,372.48,No pobre,Casa,Si,Si
+H2026100255,2026-10,Pichincha,Urbana,1,441.27,441.27,No pobre,Departamento,Si,Si
+H2026100256,2026-10,Guayas,Urbana,4,429.59,107.40,Pobre,Casa,Si,No
+H2026100257,2026-10,Manabi,Rural,2,429.94,214.97,No pobre,Casa,Si,Si
+H2026100258,2026-10,Guayas,Urbana,4,310.15,77.54,Pobre,Casa,Si,Si
+H2026100259,2026-10,Azuay,Urbana,1,81.75,81.75,Pobre,Casa,Si,Si
+H2026100260,2026-10,Manabi,Rural,2,267.46,133.73,Pobre,Casa,Si,Si
+H2026100261,2026-10,Pichincha,Urbana,1,163.31,163.31,Pobre,Departamento,Si,Si
+H2026100262,2026-10,Pichincha,Urbana,4,2479.48,619.87,No pobre,Departamento,Si,Si
+H2026100263,2026-10,Pichincha,Urbana,6,1516.75,252.79,No pobre,Casa,Si,Si
+H2026100264,2026-10,Guayas,Urbana,5,2924.63,584.93,No pobre,Casa,Si,Si
+H2026100265,2026-10,Pichincha,Urbana,4,435.65,108.91,Pobre,Casa,Si,Si
+H2026100266,2026-10,Pichincha,Urbana,1,393.76,393.76,No pobre,Cuarto,Si,Si
+H2026100267,2026-10,Manabi,Urbana,4,1974.60,493.65,No pobre,Casa,Si,Si
+H2026100268,2026-10,Cotopaxi,Urbana,2,156.89,78.44,Pobre,Departamento,Si,No
+H2026100269,2026-10,Guayas,Urbana,2,400.95,200.47,No pobre,Casa,Si,Si
+H2026100270,2026-10,Guayas,Urbana,3,853.04,284.35,No pobre,Casa,Si,Si
+H2026100271,2026-10,Guayas,Urbana,6,698.35,116.39,Pobre,Casa,Si,Si
+H2026100272,2026-10,Cotopaxi,Urbana,3,1295.29,431.76,No pobre,Casa,Si,Si
+H2026100273,2026-10,Pichincha,Rural,1,297.97,297.97,No pobre,Casa,Si,Si
+H2026100274,2026-10,Azuay,Urbana,3,769.11,256.37,No pobre,Casa,Si,Si
+H2026100275,2026-10,Guayas,Urbana,2,986.78,493.39,No pobre,Cuarto,Si,Si
+H2026100276,2026-10,Guayas,Urbana,3,2084.20,694.73,No pobre,Cuarto,Si,Si
+H2026100277,2026-10,Pichincha,Urbana,4,2698.01,674.50,No pobre,Cuarto,Si,Si
+H2026100278,2026-10,Manabi,Urbana,3,2023.24,674.41,No pobre,Departamento,Si,Si
+H2026100279,2026-10,Pichincha,Urbana,2,3609.90,1804.95,No pobre,Departamento,Si,Si
+H2026100280,2026-10,Pichincha,Rural,4,2763.54,690.88,No pobre,Departamento,Si,Si
+H2026100281,2026-10,Pichincha,Urbana,5,1311.30,262.26,No pobre,Departamento,Si,Si
+H2026100282,2026-10,Guayas,Urbana,2,1256.22,628.11,No pobre,Casa,Si,Si
+H2026100283,2026-10,Guayas,Urbana,1,198.54,198.54,No pobre,Departamento,No,Si
+H2026100284,2026-10,Pichincha,Rural,4,1012.74,253.19,No pobre,Casa,Si,Si
+H2026100285,2026-10,Guayas,Urbana,5,3443.12,688.62,No pobre,Departamento,Si,No
+H2026100286,2026-10,Azuay,Urbana,2,936.83,468.42,No pobre,Casa,Si,No
+H2026100287,2026-10,Manabi,Rural,4,2728.40,682.10,No pobre,Casa,Si,Si
+H2026100288,2026-10,Pichincha,Urbana,3,1152.16,384.05,No pobre,Cuarto,Si,No
+H2026100289,2026-10,Pichincha,Urbana,4,1321.30,330.32,No pobre,Casa,Si,Si
+H2026100290,2026-10,Guayas,Urbana,3,1078.90,359.63,No pobre,Casa,Si,Si
+H2026100291,2026-10,Pichincha,Urbana,1,686.72,686.72,No pobre,Cuarto,Si,No
+H2026100292,2026-10,Guayas,Urbana,3,309.71,103.24,Pobre,Casa,Si,Si
+H2026100293,2026-10,Pichincha,Urbana,4,2771.08,692.77,No pobre,Departamento,Si,Si
+H2026100294,2026-10,Guayas,Urbana,4,1942.68,485.67,No pobre,Casa,Si,Si
+H2026100295,2026-10,Pichincha,Urbana,3,1436.72,478.91,No pobre,Casa,Si,Si
+H2026100296,2026-10,Cotopaxi,Urbana,2,1085.82,542.91,No pobre,Departamento,Si,Si
+H2026100297,2026-10,Guayas,Urbana,2,652.16,326.08,No pobre,Casa,Si,Si
+H2026100298,2026-10,Guayas,Rural,3,333.72,111.24,Pobre,Casa,Si,Si
+H2026100299,2026-10,Pichincha,Rural,1,469.00,469.00,No pobre,Casa,Si,Si
+H2026100300,2026-10,Pichincha,Urbana,3,364.05,121.35,Pobre,Casa,Si,Si
+H2026100301,2026-10,Azuay,Urbana,4,7292.92,1823.23,No pobre,Casa,Si,Si
+H2026100302,2026-10,Pichincha,Urbana,5,746.43,149.29,Pobre,Casa,Si,Si
+H2026100303,2026-10,Guayas,Rural,3,2160.74,720.25,No pobre,Cuarto,Si,Si
+H2026100304,2026-10,Pichincha,Urbana,2,380.86,190.43,No pobre,Casa,Si,Si
+H2026100305,2026-10,Pichincha,Urbana,5,1133.68,226.74,No pobre,Cuarto,Si,Si
+H2026100306,2026-10,Pichincha,Rural,1,544.04,544.04,No pobre,Casa,Si,Si
+H2026100307,2026-10,Guayas,Urbana,4,2016.79,504.20,No pobre,Cuarto,Si,Si
+H2026100308,2026-10,Pichincha,Urbana,4,6746.46,1686.62,No pobre,Casa,No,Si
+H2026100309,2026-10,Cotopaxi,Urbana,3,951.45,317.15,No pobre,Casa,Si,Si
+H2026100310,2026-10,Pichincha,Urbana,3,861.08,287.03,No pobre,Casa,Si,Si
+H2026100311,2026-10,Pichincha,Urbana,6,3024.03,504.01,No pobre,Departamento,No,Si
+H2026100312,2026-10,Manabi,Rural,2,1188.34,594.17,No pobre,Departamento,Si,Si
+H2026100313,2026-10,Guayas,Urbana,2,179.75,89.88,Pobre,Casa,Si,Si
+H2026100314,2026-10,Azuay,Urbana,1,294.18,294.18,No pobre,Casa,Si,Si
+H2026100315,2026-10,Pichincha,Rural,5,7281.36,1456.27,No pobre,Cuarto,Si,Si
+H2026100316,2026-10,Pichincha,Rural,5,1328.58,265.72,No pobre,Casa,Si,Si
+H2026100317,2026-10,Cotopaxi,Urbana,1,208.66,208.66,No pobre,Casa,Si,Si
+H2026100318,2026-10,Azuay,Urbana,3,418.26,139.42,Pobre,Casa,Si,Si
+H2026100319,2026-10,Manabi,Urbana,3,1544.62,514.87,No pobre,Casa,Si,Si
+H2026100320,2026-10,Manabi,Urbana,3,1116.26,372.09,No pobre,Casa,Si,Si
+H2026100321,2026-10,Guayas,Urbana,5,723.82,144.76,Pobre,Casa,Si,Si
+H2026100322,2026-10,Pichincha,Urbana,3,1930.56,643.52,No pobre,Departamento,Si,Si
+H2026100323,2026-10,Pichincha,Urbana,3,471.98,157.33,Pobre,Casa,Si,Si
+H2026100324,2026-10,Guayas,Urbana,2,3881.96,1940.98,No pobre,Casa,Si,Si
+H2026100325,2026-10,Cotopaxi,Urbana,1,221.09,221.09,No pobre,Casa,Si,Si
+H2026100326,2026-10,Cotopaxi,Urbana,3,822.62,274.21,No pobre,Casa,Si,Si
+H2026100327,2026-10,Cotopaxi,Urbana,1,337.68,337.68,No pobre,Departamento,Si,No
+H2026100328,2026-10,Pichincha,Urbana,5,953.15,190.63,No pobre,Casa,Si,Si
+H2026100329,2026-10,Cotopaxi,Rural,3,584.31,194.77,No pobre,Casa,Si,Si
+H2026100330,2026-10,Pichincha,Rural,3,875.06,291.69,No pobre,Cuarto,Si,Si
+H2026100331,2026-10,Azuay,Urbana,3,919.16,306.39,No pobre,Casa,Si,Si
+H2026100332,2026-10,Guayas,Urbana,3,479.32,159.77,Pobre,Casa,Si,No
+H2026100333,2026-10,Guayas,Urbana,3,811.61,270.54,No pobre,Casa,Si,No
+H2026100334,2026-10,Guayas,Rural,4,1812.35,453.09,No pobre,Casa,Si,Si
+H2026100335,2026-10,Cotopaxi,Rural,2,995.74,497.87,No pobre,Casa,Si,No
+H2026100336,2026-10,Pichincha,Urbana,4,2489.03,622.26,No pobre,Casa,No,No
+H2026100337,2026-10,Pichincha,Urbana,1,337.36,337.36,No pobre,Casa,No,Si
+H2026100338,2026-10,Guayas,Urbana,3,451.71,150.57,Pobre,Casa,Si,Si
+H2026100339,2026-10,Guayas,Urbana,1,526.84,526.84,No pobre,Casa,Si,Si
+H2026100340,2026-10,Pichincha,Urbana,3,376.83,125.61,Pobre,Departamento,Si,Si
+H2026100341,2026-10,Pichincha,Urbana,2,356.42,178.21,Pobre,Casa,Si,Si
+H2026100342,2026-10,Guayas,Urbana,1,241.87,241.87,No pobre,Departamento,Si,No
+H2026100343,2026-10,Pichincha,Urbana,2,502.68,251.34,No pobre,Casa,Si,Si
+H2026100344,2026-10,Pichincha,Urbana,2,1022.91,511.45,No pobre,Casa,Si,Si
+H2026100345,2026-10,Pichincha,Urbana,2,1085.78,542.89,No pobre,Casa,No,Si
+H2026100346,2026-10,Guayas,Urbana,4,6011.53,1502.88,No pobre,Casa,Si,Si
+H2026100347,2026-10,Manabi,Urbana,2,590.30,295.15,No pobre,Casa,Si,No
+H2026100348,2026-10,Cotopaxi,Rural,4,2181.70,545.42,No pobre,Departamento,Si,Si
+H2026100349,2026-10,Guayas,Urbana,3,1212.71,404.24,No pobre,Casa,Si,No
+H2026100350,2026-10,Pichincha,Urbana,5,1408.21,281.64,No pobre,Casa,Si,No
+H2026100351,2026-10,Pichincha,Urbana,4,2848.58,712.14,No pobre,Casa,Si,No
+H2026100352,2026-10,Cotopaxi,Urbana,3,2064.00,688.00,No pobre,Departamento,Si,Si
+H2026100353,2026-10,Guayas,Rural,3,1278.38,426.13,No pobre,Casa,No,Si
+H2026100354,2026-10,Azuay,Urbana,4,2294.28,573.57,No pobre,Casa,Si,Si
+H2026100355,2026-10,Azuay,Urbana,4,441.16,110.29,Pobre,Casa,Si,No
+H2026100356,2026-10,Azuay,Rural,5,1294.34,258.87,No pobre,Casa,Si,Si
+H2026100357,2026-10,Pichincha,Urbana,4,1842.18,460.55,No pobre,Casa,Si,No
+H2026100358,2026-10,Pichincha,Urbana,2,437.89,218.94,No pobre,Departamento,Si,Si
+H2026100359,2026-10,Azuay,Urbana,5,800.36,160.07,Pobre,Casa,Si,No
+H2026100360,2026-10,Manabi,Urbana,1,527.07,527.07,No pobre,Casa,Si,No
+H2026100361,2026-10,Manabi,Urbana,1,208.04,208.04,No pobre,Departamento,Si,Si
+H2026100362,2026-10,Azuay,Urbana,1,1636.38,1636.38,No pobre,Casa,Si,Si
+H2026100363,2026-10,Pichincha,Urbana,2,3831.77,1915.88,No pobre,Casa,Si,No
+H2026100364,2026-10,Azuay,Urbana,4,1117.76,279.44,No pobre,Departamento,Si,Si
+H2026100365,2026-10,Pichincha,Urbana,2,1629.33,814.66,No pobre,Casa,Si,Si
+H2026100366,2026-10,Pichincha,Urbana,3,2185.26,728.42,No pobre,Casa,Si,Si
+H2026100367,2026-10,Cotopaxi,Urbana,6,1142.68,190.45,No pobre,Cuarto,Si,Si
+H2026100368,2026-10,Guayas,Urbana,3,1395.08,465.03,No pobre,Casa,Si,Si
+H2026100369,2026-10,Pichincha,Urbana,5,3386.96,677.39,No pobre,Casa,No,Si
+H2026100370,2026-10,Azuay,Rural,3,715.98,238.66,No pobre,Casa,Si,No
+H2026100371,2026-10,Pichincha,Rural,1,484.96,484.96,No pobre,Departamento,Si,Si
+H2026100372,2026-10,Pichincha,Urbana,3,1373.84,457.95,No pobre,Casa,Si,Si
+H2026100373,2026-10,Guayas,Urbana,3,2088.92,696.31,No pobre,Casa,Si,Si
+H2026100374,2026-10,Azuay,Urbana,4,552.96,138.24,Pobre,Departamento,Si,Si
+H2026100375,2026-10,Pichincha,Rural,4,6250.38,1562.60,No pobre,Casa,Si,No
+H2026100376,2026-10,Guayas,Urbana,2,1385.54,692.77,No pobre,Departamento,Si,Si
+H2026100377,2026-10,Pichincha,Rural,4,2823.88,705.97,No pobre,Casa,Si,Si
+H2026100378,2026-10,Guayas,Urbana,2,878.07,439.04,No pobre,Cuarto,Si,Si
+H2026100379,2026-10,Manabi,Rural,3,1418.84,472.95,No pobre,Casa,Si,Si
+H2026100380,2026-10,Pichincha,Urbana,4,1142.91,285.73,No pobre,Departamento,Si,Si
+H2026100381,2026-10,Guayas,Urbana,4,1090.22,272.56,No pobre,Departamento,Si,No
+H2026100382,2026-10,Pichincha,Urbana,5,1842.44,368.49,No pobre,Casa,Si,Si
+H2026100383,2026-10,Pichincha,Urbana,3,1882.60,627.53,No pobre,Casa,Si,Si
+H2026100384,2026-10,Guayas,Urbana,2,692.08,346.04,No pobre,Casa,Si,Si
+H2026100385,2026-10,Pichincha,Urbana,3,307.90,102.63,Pobre,Cuarto,Si,Si
+H2026100386,2026-10,Pichincha,Urbana,4,1193.10,298.27,No pobre,Casa,Si,Si
+H2026100387,2026-10,Manabi,Urbana,3,1195.12,398.37,No pobre,Casa,Si,Si
+H2026100388,2026-10,Pichincha,Rural,2,560.34,280.17,No pobre,Casa,Si,Si
+H2026100389,2026-10,Pichincha,Urbana,2,565.16,282.58,No pobre,Casa,Si,Si
+H2026100390,2026-10,Pichincha,Urbana,5,3406.50,681.30,No pobre,Departamento,No,Si
+H2026100391,2026-10,Pichincha,Rural,2,289.20,144.60,Pobre,Casa,No,Si
+H2026100392,2026-10,Azuay,Rural,4,2681.55,670.39,No pobre,Casa,Si,Si
+H2026100393,2026-10,Pichincha,Urbana,2,1253.84,626.92,No pobre,Cuarto,Si,Si
+H2026100394,2026-10,Pichincha,Urbana,3,886.98,295.66,No pobre,Cuarto,Si,Si
+H2026100395,2026-10,Pichincha,Rural,3,2081.56,693.85,No pobre,Departamento,Si,Si
+H2026100396,2026-10,Guayas,Urbana,1,173.86,173.86,Pobre,Cuarto,Si,Si
+H2026100397,2026-10,Pichincha,Rural,3,570.25,190.08,No pobre,Cuarto,Si,Si
+H2026100398,2026-10,Guayas,Urbana,1,151.16,151.16,Pobre,Cuarto,Si,Si
+H2026100399,2026-10,Pichincha,Urbana,5,423.21,84.64,Pobre,Casa,Si,Si
+H2026100400,2026-10,Guayas,Urbana,3,727.41,242.47,No pobre,Casa,No,No
+H2026110001,2026-11,Guayas,Rural,2,306.78,153.39,Pobre,Casa,No,No
+H2026110002,2026-11,Pichincha,Urbana,4,653.86,163.47,Pobre,Casa,Si,Si
+H2026110003,2026-11,Pichincha,Urbana,1,320.73,320.73,No pobre,Departamento,Si,Si
+H2026110004,2026-11,Guayas,Urbana,1,403.87,403.87,No pobre,Departamento,No,Si
+H2026110005,2026-11,Pichincha,Rural,1,205.55,205.55,No pobre,Casa,Si,Si
+H2026110006,2026-11,Pichincha,Urbana,6,2160.03,360.01,No pobre,Casa,Si,No
+H2026110007,2026-11,Azuay,Urbana,3,1870.79,623.60,No pobre,Casa,Si,Si
+H2026110008,2026-11,Cotopaxi,Rural,1,171.90,171.90,Pobre,Casa,Si,Si
+H2026110009,2026-11,Guayas,Urbana,2,1257.91,628.96,No pobre,Casa,Si,Si
+H2026110010,2026-11,Pichincha,Urbana,2,1373.32,686.66,No pobre,Cuarto,No,Si
+H2026110011,2026-11,Manabi,Urbana,1,705.18,705.18,No pobre,Casa,Si,Si
+H2026110012,2026-11,Guayas,Urbana,1,307.28,307.28,No pobre,Cuarto,Si,Si
+H2026110013,2026-11,Guayas,Rural,4,672.75,168.19,Pobre,Casa,Si,No
+H2026110014,2026-11,Cotopaxi,Urbana,3,238.88,79.63,Pobre,Casa,Si,Si
+H2026110015,2026-11,Guayas,Urbana,4,351.66,87.92,Pobre,Casa,No,Si
+H2026110016,2026-11,Pichincha,Urbana,3,1231.57,410.52,No pobre,Casa,Si,Si
+H2026110017,2026-11,Azuay,Urbana,1,369.68,369.68,No pobre,Casa,Si,Si
+H2026110018,2026-11,Pichincha,Rural,4,1229.87,307.47,No pobre,Casa,Si,No
+H2026110019,2026-11,Pichincha,Urbana,4,1154.43,288.61,No pobre,Casa,Si,Si
+H2026110020,2026-11,Pichincha,Rural,1,430.13,430.13,No pobre,Departamento,Si,Si
+H2026110021,2026-11,Guayas,Urbana,2,1222.09,611.04,No pobre,Departamento,Si,Si
+H2026110022,2026-11,Pichincha,Urbana,4,1603.80,400.95,No pobre,Departamento,Si,Si
+H2026110023,2026-11,Cotopaxi,Urbana,3,1805.00,601.67,No pobre,Casa,No,Si
+H2026110024,2026-11,Cotopaxi,Urbana,3,1415.41,471.80,No pobre,Casa,Si,Si
+H2026110025,2026-11,Guayas,Urbana,3,2063.17,687.72,No pobre,Casa,Si,No
+H2026110026,2026-11,Guayas,Urbana,3,2017.66,672.55,No pobre,Casa,Si,Si
+H2026110027,2026-11,Pichincha,Rural,1,111.82,111.82,Pobre,Departamento,Si,Si
+H2026110028,2026-11,Cotopaxi,Urbana,4,1589.13,397.28,No pobre,Casa,No,Si
+H2026110029,2026-11,Pichincha,Urbana,2,1231.65,615.83,No pobre,Departamento,Si,Si
+H2026110030,2026-11,Pichincha,Urbana,2,777.53,388.76,No pobre,Departamento,Si,Si
+H2026110031,2026-11,Azuay,Urbana,2,999.05,499.52,No pobre,Departamento,Si,Si
+H2026110032,2026-11,Manabi,Rural,7,734.62,104.95,Pobre,Cuarto,Si,Si
+H2026110033,2026-11,Guayas,Rural,5,3372.64,674.53,No pobre,Casa,Si,Si
+H2026110034,2026-11,Pichincha,Urbana,3,361.05,120.35,Pobre,Casa,Si,Si
+H2026110035,2026-11,Cotopaxi,Urbana,3,1228.12,409.37,No pobre,Departamento,Si,Si
+H2026110036,2026-11,Cotopaxi,Urbana,2,1363.58,681.79,No pobre,Casa,Si,Si
+H2026110037,2026-11,Guayas,Rural,1,1163.15,1163.15,No pobre,Casa,Si,Si
+H2026110038,2026-11,Pichincha,Rural,4,1042.26,260.56,No pobre,Casa,Si,Si
+H2026110039,2026-11,Pichincha,Urbana,2,1176.11,588.05,No pobre,Casa,Si,Si
+H2026110040,2026-11,Pichincha,Rural,2,556.92,278.46,No pobre,Departamento,Si,Si
+H2026110041,2026-11,Azuay,Urbana,1,470.19,470.19,No pobre,Casa,Si,Si
+H2026110042,2026-11,Pichincha,Urbana,2,248.25,124.12,Pobre,Casa,Si,Si
+H2026110043,2026-11,Azuay,Urbana,4,1579.53,394.88,No pobre,Departamento,Si,Si
+H2026110044,2026-11,Pichincha,Urbana,4,448.71,112.18,Pobre,Cuarto,Si,Si
+H2026110045,2026-11,Pichincha,Urbana,5,1038.03,207.61,No pobre,Casa,Si,No
+H2026110046,2026-11,Guayas,Urbana,3,449.91,149.97,Pobre,Departamento,Si,Si
+H2026110047,2026-11,Azuay,Urbana,4,2369.27,592.32,No pobre,Casa,Si,No
+H2026110048,2026-11,Manabi,Urbana,4,1005.26,251.31,No pobre,Casa,Si,Si
+H2026110049,2026-11,Pichincha,Rural,6,2331.33,388.56,No pobre,Casa,Si,No
+H2026110050,2026-11,Manabi,Urbana,4,766.46,191.62,No pobre,Casa,Si,No
+H2026110051,2026-11,Azuay,Urbana,4,1630.54,407.63,No pobre,Departamento,Si,Si
+H2026110052,2026-11,Azuay,Urbana,3,923.91,307.97,No pobre,Casa,Si,Si
+H2026110053,2026-11,Pichincha,Urbana,3,5772.96,1924.32,No pobre,Departamento,Si,Si
+H2026110054,2026-11,Azuay,Urbana,2,784.28,392.14,No pobre,Departamento,Si,No
+H2026110055,2026-11,Pichincha,Urbana,3,299.20,99.73,Pobre,Casa,Si,Si
+H2026110056,2026-11,Pichincha,Urbana,5,1286.98,257.40,No pobre,Cuarto,Si,Si
+H2026110057,2026-11,Guayas,Urbana,3,857.03,285.68,No pobre,Casa,Si,Si
+H2026110058,2026-11,Pichincha,Urbana,1,449.55,449.55,No pobre,Casa,Si,Si
+H2026110059,2026-11,Pichincha,Rural,2,1514.36,757.18,No pobre,Departamento,Si,Si
+H2026110060,2026-11,Pichincha,Urbana,3,1079.37,359.79,No pobre,Departamento,Si,Si
+H2026110061,2026-11,Guayas,Rural,4,2242.41,560.60,No pobre,Casa,Si,Si
+H2026110062,2026-11,Pichincha,Urbana,3,1197.71,399.24,No pobre,Casa,Si,Si
+H2026110063,2026-11,Pichincha,Urbana,3,982.34,327.45,No pobre,Casa,Si,Si
+H2026110064,2026-11,Guayas,Urbana,3,2128.84,709.61,No pobre,Cuarto,Si,Si
+H2026110065,2026-11,Pichincha,Urbana,3,1192.02,397.34,No pobre,Casa,Si,Si
+H2026110066,2026-11,Azuay,Rural,1,154.94,154.94,Pobre,Casa,Si,Si
+H2026110067,2026-11,Manabi,Urbana,2,552.58,276.29,No pobre,Casa,Si,Si
+H2026110068,2026-11,Azuay,Urbana,2,460.11,230.06,No pobre,Casa,Si,No
+H2026110069,2026-11,Cotopaxi,Urbana,6,1453.79,242.30,No pobre,Departamento,Si,Si
+H2026110070,2026-11,Pichincha,Urbana,3,271.95,90.65,Pobre,Casa,No,Si
+H2026110071,2026-11,Azuay,Urbana,2,529.67,264.83,No pobre,Casa,Si,Si
+H2026110072,2026-11,Pichincha,Urbana,4,2896.04,724.01,No pobre,Casa,Si,Si
+H2026110073,2026-11,Guayas,Urbana,3,1133.54,377.85,No pobre,Casa,Si,No
+H2026110074,2026-11,Pichincha,Urbana,6,1552.82,258.80,No pobre,Cuarto,Si,Si
+H2026110075,2026-11,Guayas,Urbana,1,247.42,247.42,No pobre,Casa,Si,Si
+H2026110076,2026-11,Guayas,Rural,3,879.87,293.29,No pobre,Departamento,Si,Si
+H2026110077,2026-11,Azuay,Urbana,4,1163.49,290.87,No pobre,Departamento,Si,Si
+H2026110078,2026-11,Azuay,Urbana,6,1483.30,247.22,No pobre,Casa,Si,Si
+H2026110079,2026-11,Guayas,Urbana,1,199.88,199.88,No pobre,Departamento,Si,No
+H2026110080,2026-11,Pichincha,Urbana,1,163.19,163.19,Pobre,Departamento,Si,Si
+H2026110081,2026-11,Azuay,Urbana,3,659.53,219.84,No pobre,Departamento,Si,Si
+H2026110082,2026-11,Pichincha,Urbana,2,281.52,140.76,Pobre,Casa,Si,Si
+H2026110083,2026-11,Pichincha,Rural,3,1699.51,566.50,No pobre,Departamento,Si,Si
+H2026110084,2026-11,Pichincha,Urbana,3,1705.65,568.55,No pobre,Casa,Si,Si
+H2026110085,2026-11,Pichincha,Urbana,1,368.67,368.67,No pobre,Casa,Si,No
+H2026110086,2026-11,Cotopaxi,Urbana,3,1152.45,384.15,No pobre,Cuarto,Si,Si
+H2026110087,2026-11,Guayas,Urbana,3,5593.91,1864.64,No pobre,Casa,Si,Si
+H2026110088,2026-11,Guayas,Urbana,1,1259.50,1259.50,No pobre,Casa,Si,Si
+H2026110089,2026-11,Guayas,Rural,5,462.65,92.53,Pobre,Casa,Si,Si
+H2026110090,2026-11,Cotopaxi,Urbana,2,581.81,290.90,No pobre,Cuarto,Si,No
+H2026110091,2026-11,Guayas,Urbana,3,848.53,282.84,No pobre,Casa,Si,Si
+H2026110092,2026-11,Pichincha,Urbana,3,1630.31,543.44,No pobre,Casa,Si,Si
+H2026110093,2026-11,Pichincha,Urbana,4,437.93,109.48,Pobre,Departamento,Si,Si
+H2026110094,2026-11,Guayas,Urbana,2,959.63,479.81,No pobre,Casa,No,Si
+H2026110095,2026-11,Pichincha,Urbana,4,2680.17,670.04,No pobre,Casa,Si,Si
+H2026110096,2026-11,Azuay,Urbana,2,306.39,153.19,Pobre,Cuarto,Si,Si
+H2026110097,2026-11,Guayas,Urbana,1,286.53,286.53,No pobre,Casa,Si,No
+H2026110098,2026-11,Guayas,Urbana,2,1832.49,916.25,No pobre,Casa,No,Si
+H2026110099,2026-11,Pichincha,Urbana,4,1774.05,443.51,No pobre,Casa,Si,Si
+H2026110100,2026-11,Guayas,Urbana,6,1603.15,267.19,No pobre,Departamento,Si,Si
+H2026110101,2026-11,Guayas,Urbana,4,1483.32,370.83,No pobre,Departamento,Si,Si
+H2026110102,2026-11,Guayas,Urbana,2,464.28,232.14,No pobre,Casa,Si,Si
+H2026110103,2026-11,Cotopaxi,Rural,3,4984.29,1661.43,No pobre,Departamento,Si,No
+H2026110104,2026-11,Azuay,Urbana,4,925.26,231.31,No pobre,Departamento,Si,Si
+H2026110105,2026-11,Azuay,Urbana,1,161.53,161.53,Pobre,Departamento,Si,Si
+H2026110106,2026-11,Manabi,Urbana,1,609.34,609.34,No pobre,Departamento,No,Si
+H2026110107,2026-11,Cotopaxi,Urbana,2,494.94,247.47,No pobre,Casa,Si,Si
+H2026110108,2026-11,Pichincha,Rural,1,81.73,81.73,Pobre,Casa,Si,Si
+H2026110109,2026-11,Cotopaxi,Urbana,5,771.31,154.26,Pobre,Casa,Si,Si
+H2026110110,2026-11,Azuay,Urbana,5,2406.65,481.33,No pobre,Departamento,Si,Si
+H2026110111,2026-11,Pichincha,Urbana,6,2645.39,440.90,No pobre,Casa,Si,Si
+H2026110112,2026-11,Guayas,Urbana,3,2085.48,695.16,No pobre,Casa,Si,Si
+H2026110113,2026-11,Guayas,Urbana,1,249.91,249.91,No pobre,Departamento,Si,Si
+H2026110114,2026-11,Guayas,Rural,3,692.89,230.96,No pobre,Departamento,Si,Si
+H2026110115,2026-11,Guayas,Rural,1,249.50,249.50,No pobre,Departamento,Si,No
+H2026110116,2026-11,Manabi,Rural,3,575.17,191.72,No pobre,Casa,No,Si
+H2026110117,2026-11,Guayas,Urbana,3,759.63,253.21,No pobre,Departamento,Si,No
+H2026110118,2026-11,Azuay,Urbana,3,1628.52,542.84,No pobre,Casa,Si,Si
+H2026110119,2026-11,Guayas,Urbana,2,1379.53,689.76,No pobre,Departamento,Si,Si
+H2026110120,2026-11,Pichincha,Urbana,3,2043.80,681.27,No pobre,Casa,No,Si
+H2026110121,2026-11,Pichincha,Urbana,4,5682.11,1420.53,No pobre,Casa,Si,No
+H2026110122,2026-11,Pichincha,Urbana,3,1218.69,406.23,No pobre,Departamento,Si,Si
+H2026110123,2026-11,Pichincha,Urbana,2,657.09,328.55,No pobre,Departamento,Si,Si
+H2026110124,2026-11,Pichincha,Urbana,4,1356.17,339.04,No pobre,Casa,Si,Si
+H2026110125,2026-11,Guayas,Rural,3,223.96,74.65,Pobre,Casa,Si,Si
+H2026110126,2026-11,Pichincha,Urbana,3,605.85,201.95,No pobre,Casa,Si,Si
+H2026110127,2026-11,Pichincha,Urbana,2,511.89,255.94,No pobre,Cuarto,No,Si
+H2026110128,2026-11,Pichincha,Rural,4,405.94,101.48,Pobre,Casa,Si,No
+H2026110129,2026-11,Guayas,Urbana,3,2141.03,713.68,No pobre,Casa,Si,Si
+H2026110130,2026-11,Guayas,Urbana,2,569.94,284.97,No pobre,Casa,Si,Si
+H2026110131,2026-11,Pichincha,Rural,2,818.06,409.03,No pobre,Casa,No,Si
+H2026110132,2026-11,Guayas,Urbana,4,3085.09,771.27,No pobre,Cuarto,Si,Si
+H2026110133,2026-11,Cotopaxi,Urbana,1,135.97,135.97,Pobre,Casa,Si,Si
+H2026110134,2026-11,Pichincha,Urbana,3,421.48,140.49,Pobre,Casa,Si,Si
+H2026110135,2026-11,Guayas,Urbana,5,2950.87,590.17,No pobre,Casa,Si,Si
+H2026110136,2026-11,Cotopaxi,Urbana,1,229.32,229.32,No pobre,Casa,Si,Si
+H2026110137,2026-11,Pichincha,Urbana,5,1423.11,284.62,No pobre,Departamento,Si,Si
+H2026110138,2026-11,Azuay,Urbana,3,2620.48,873.49,No pobre,Casa,No,Si
+H2026110139,2026-11,Pichincha,Urbana,3,1503.93,501.31,No pobre,Casa,Si,Si
+H2026110140,2026-11,Guayas,Urbana,2,414.29,207.15,No pobre,Departamento,Si,Si
+H2026110141,2026-11,Pichincha,Urbana,2,1418.87,709.43,No pobre,Departamento,Si,No
+H2026110142,2026-11,Azuay,Rural,2,1049.66,524.83,No pobre,Departamento,Si,Si
+H2026110143,2026-11,Pichincha,Urbana,2,174.51,87.25,Pobre,Departamento,No,Si
+H2026110144,2026-11,Pichincha,Rural,5,1341.65,268.33,No pobre,Cuarto,Si,Si
+H2026110145,2026-11,Cotopaxi,Urbana,2,1189.63,594.82,No pobre,Casa,Si,Si
+H2026110146,2026-11,Azuay,Urbana,1,1614.75,1614.75,No pobre,Casa,Si,Si
+H2026110147,2026-11,Azuay,Urbana,2,489.24,244.62,No pobre,Casa,Si,No
+H2026110148,2026-11,Manabi,Urbana,3,2131.56,710.52,No pobre,Departamento,Si,Si
+H2026110149,2026-11,Azuay,Urbana,4,2648.32,662.08,No pobre,Cuarto,Si,Si
+H2026110150,2026-11,Guayas,Urbana,1,153.20,153.20,Pobre,Casa,Si,Si
+H2026110151,2026-11,Cotopaxi,Urbana,2,689.29,344.64,No pobre,Cuarto,Si,Si
+H2026110152,2026-11,Pichincha,Urbana,4,1564.16,391.04,No pobre,Cuarto,Si,Si
+H2026110153,2026-11,Pichincha,Urbana,2,1135.50,567.75,No pobre,Casa,Si,Si
+H2026110154,2026-11,Azuay,Urbana,3,1472.51,490.84,No pobre,Cuarto,Si,Si
+H2026110155,2026-11,Cotopaxi,Urbana,4,1052.90,263.23,No pobre,Departamento,Si,Si
+H2026110156,2026-11,Azuay,Urbana,3,1929.00,643.00,No pobre,Casa,Si,Si
+H2026110157,2026-11,Pichincha,Urbana,2,312.28,156.14,Pobre,Departamento,Si,No
+H2026110158,2026-11,Pichincha,Urbana,5,647.87,129.57,Pobre,Cuarto,Si,Si
+H2026110159,2026-11,Pichincha,Urbana,6,1209.08,201.51,No pobre,Casa,Si,No
+H2026110160,2026-11,Guayas,Rural,5,760.41,152.08,Pobre,Casa,Si,Si
+H2026110161,2026-11,Pichincha,Rural,3,533.27,177.76,Pobre,Casa,Si,No
+H2026110162,2026-11,Manabi,Urbana,4,1851.00,462.75,No pobre,Casa,No,Si
+H2026110163,2026-11,Guayas,Rural,3,352.09,117.36,Pobre,Departamento,Si,Si
+H2026110164,2026-11,Azuay,Urbana,5,4431.35,886.27,No pobre,Casa,No,Si
+H2026110165,2026-11,Guayas,Urbana,4,1374.85,343.71,No pobre,Casa,Si,Si
+H2026110166,2026-11,Pichincha,Urbana,3,672.01,224.00,No pobre,Casa,Si,Si
+H2026110167,2026-11,Azuay,Urbana,3,1654.59,551.53,No pobre,Casa,Si,Si
+H2026110168,2026-11,Pichincha,Urbana,2,874.48,437.24,No pobre,Casa,Si,Si
+H2026110169,2026-11,Pichincha,Urbana,3,328.63,109.54,Pobre,Casa,Si,Si
+H2026110170,2026-11,Azuay,Urbana,6,1627.18,271.20,No pobre,Cuarto,Si,Si
+H2026110171,2026-11,Cotopaxi,Urbana,4,330.42,82.61,Pobre,Casa,Si,No
+H2026110172,2026-11,Azuay,Urbana,7,2449.44,349.92,No pobre,Casa,Si,Si
+H2026110173,2026-11,Guayas,Urbana,3,1908.35,636.12,No pobre,Casa,Si,Si
+H2026110174,2026-11,Pichincha,Urbana,4,2901.23,725.31,No pobre,Departamento,Si,Si
+H2026110175,2026-11,Pichincha,Rural,2,1042.87,521.43,No pobre,Casa,Si,Si
+H2026110176,2026-11,Azuay,Urbana,1,88.51,88.51,Pobre,Departamento,Si,Si
+H2026110177,2026-11,Guayas,Urbana,4,1084.47,271.12,No pobre,Casa,Si,Si
+H2026110178,2026-11,Pichincha,Urbana,4,2421.90,605.48,No pobre,Casa,Si,Si
+H2026110179,2026-11,Pichincha,Urbana,3,420.29,140.10,Pobre,Casa,Si,Si
+H2026110180,2026-11,Pichincha,Rural,3,759.75,253.25,No pobre,Casa,Si,Si
+H2026110181,2026-11,Guayas,Urbana,5,1846.93,369.39,No pobre,Casa,Si,Si
+H2026110182,2026-11,Azuay,Rural,2,881.58,440.79,No pobre,Casa,No,No
+H2026110183,2026-11,Azuay,Urbana,4,599.12,149.78,Pobre,Casa,No,Si
+H2026110184,2026-11,Guayas,Urbana,2,272.86,136.43,Pobre,Casa,Si,No
+H2026110185,2026-11,Pichincha,Urbana,2,484.32,242.16,No pobre,Casa,Si,No
+H2026110186,2026-11,Pichincha,Urbana,2,727.97,363.99,No pobre,Departamento,Si,Si
+H2026110187,2026-11,Pichincha,Urbana,2,458.87,229.44,No pobre,Cuarto,Si,Si
+H2026110188,2026-11,Cotopaxi,Rural,3,1179.10,393.03,No pobre,Departamento,No,Si
+H2026110189,2026-11,Pichincha,Urbana,5,2490.22,498.04,No pobre,Casa,Si,Si
+H2026110190,2026-11,Guayas,Rural,2,564.62,282.31,No pobre,Casa,Si,No
+H2026110191,2026-11,Pichincha,Urbana,3,718.95,239.65,No pobre,Casa,Si,Si
+H2026110192,2026-11,Guayas,Urbana,3,237.61,79.20,Pobre,Casa,Si,Si
+H2026110193,2026-11,Pichincha,Urbana,3,1943.50,647.83,No pobre,Casa,Si,Si
+H2026110194,2026-11,Guayas,Urbana,2,584.93,292.46,No pobre,Casa,Si,Si
+H2026110195,2026-11,Manabi,Urbana,4,920.83,230.21,No pobre,Casa,Si,No
+H2026110196,2026-11,Pichincha,Urbana,2,184.97,92.48,Pobre,Casa,Si,No
+H2026110197,2026-11,Pichincha,Urbana,3,1561.75,520.58,No pobre,Cuarto,Si,Si
+H2026110198,2026-11,Guayas,Rural,4,2420.91,605.23,No pobre,Casa,Si,Si
+H2026110199,2026-11,Azuay,Urbana,5,5883.83,1176.77,No pobre,Casa,Si,Si
+H2026110200,2026-11,Pichincha,Rural,5,441.14,88.23,Pobre,Casa,Si,Si
+H2026110201,2026-11,Manabi,Urbana,4,1562.01,390.50,No pobre,Casa,Si,Si
+H2026110202,2026-11,Guayas,Urbana,3,881.16,293.72,No pobre,Departamento,Si,Si
+H2026110203,2026-11,Pichincha,Urbana,2,3138.61,1569.31,No pobre,Casa,Si,Si
+H2026110204,2026-11,Guayas,Urbana,2,534.66,267.33,No pobre,Departamento,Si,Si
+H2026110205,2026-11,Azuay,Urbana,1,279.78,279.78,No pobre,Casa,Si,Si
+H2026110206,2026-11,Azuay,Urbana,3,1048.85,349.62,No pobre,Casa,Si,Si
+H2026110207,2026-11,Pichincha,Rural,5,3468.61,693.72,No pobre,Cuarto,No,Si
+H2026110208,2026-11,Manabi,Urbana,6,9210.22,1535.04,No pobre,Casa,Si,Si
+H2026110209,2026-11,Cotopaxi,Rural,2,985.67,492.83,No pobre,Casa,Si,Si
+H2026110210,2026-11,Azuay,Urbana,3,1220.97,406.99,No pobre,Casa,No,Si
+H2026110211,2026-11,Pichincha,Rural,3,269.49,89.83,Pobre,Departamento,Si,Si
+H2026110212,2026-11,Pichincha,Urbana,3,743.71,247.90,No pobre,Departamento,Si,Si
+H2026110213,2026-11,Cotopaxi,Urbana,6,3007.45,501.24,No pobre,Casa,Si,Si
+H2026110214,2026-11,Guayas,Urbana,2,401.82,200.91,No pobre,Casa,Si,Si
+H2026110215,2026-11,Guayas,Urbana,4,1212.06,303.01,No pobre,Departamento,No,Si
+H2026110216,2026-11,Pichincha,Urbana,2,3062.92,1531.46,No pobre,Casa,No,Si
+H2026110217,2026-11,Guayas,Urbana,4,1028.58,257.14,No pobre,Casa,Si,Si
+H2026110218,2026-11,Guayas,Urbana,2,1434.63,717.32,No pobre,Departamento,Si,Si
+H2026110219,2026-11,Cotopaxi,Urbana,4,2793.25,698.31,No pobre,Departamento,Si,Si
+H2026110220,2026-11,Guayas,Urbana,4,1538.57,384.64,No pobre,Departamento,No,Si
+H2026110221,2026-11,Guayas,Urbana,5,2751.85,550.37,No pobre,Casa,Si,Si
+H2026110222,2026-11,Pichincha,Urbana,4,584.90,146.22,Pobre,Casa,Si,Si
+H2026110223,2026-11,Azuay,Urbana,5,7191.52,1438.30,No pobre,Departamento,Si,Si
+H2026110224,2026-11,Pichincha,Rural,2,660.44,330.22,No pobre,Casa,Si,Si
+H2026110225,2026-11,Pichincha,Urbana,4,1856.77,464.19,No pobre,Casa,Si,Si
+H2026110226,2026-11,Pichincha,Urbana,3,688.04,229.35,No pobre,Departamento,Si,Si
+H2026110227,2026-11,Guayas,Rural,3,574.40,191.47,No pobre,Casa,Si,Si
+H2026110228,2026-11,Guayas,Urbana,2,960.95,480.48,No pobre,Departamento,Si,Si
+H2026110229,2026-11,Pichincha,Urbana,3,638.97,212.99,No pobre,Casa,Si,Si
+H2026110230,2026-11,Guayas,Urbana,3,948.18,316.06,No pobre,Casa,Si,Si
+H2026110231,2026-11,Guayas,Urbana,5,4555.40,911.08,No pobre,Departamento,Si,Si
+H2026110232,2026-11,Guayas,Urbana,4,2134.02,533.50,No pobre,Departamento,Si,Si
+H2026110233,2026-11,Manabi,Rural,1,435.69,435.69,No pobre,Casa,Si,Si
+H2026110234,2026-11,Pichincha,Urbana,3,636.12,212.04,No pobre,Casa,Si,Si
+H2026110235,2026-11,Guayas,Rural,5,2607.81,521.56,No pobre,Casa,Si,Si
+H2026110236,2026-11,Azuay,Urbana,3,1656.70,552.23,No pobre,Casa,Si,Si
+H2026110237,2026-11,Pichincha,Rural,2,328.73,164.37,Pobre,Departamento,Si,Si
+H2026110238,2026-11,Cotopaxi,Urbana,1,380.12,380.12,No pobre,Casa,Si,Si
+H2026110239,2026-11,Manabi,Urbana,5,2649.96,529.99,No pobre,Casa,Si,Si
+H2026110240,2026-11,Pichincha,Urbana,2,177.11,88.56,Pobre,Casa,Si,Si
+H2026110241,2026-11,Cotopaxi,Urbana,1,583.64,583.64,No pobre,Casa,Si,No
+H2026110242,2026-11,Pichincha,Urbana,1,265.11,265.11,No pobre,Casa,Si,Si
+H2026110243,2026-11,Cotopaxi,Urbana,3,654.84,218.28,No pobre,Casa,Si,Si
+H2026110244,2026-11,Pichincha,Urbana,5,1980.20,396.04,No pobre,Casa,Si,Si
+H2026110245,2026-11,Guayas,Urbana,6,1699.10,283.18,No pobre,Departamento,Si,Si
+H2026110246,2026-11,Pichincha,Urbana,2,1165.00,582.50,No pobre,Cuarto,Si,Si
+H2026110247,2026-11,Manabi,Urbana,1,195.78,195.78,No pobre,Departamento,Si,Si
+H2026110248,2026-11,Azuay,Urbana,1,486.28,486.28,No pobre,Casa,Si,Si
+H2026110249,2026-11,Guayas,Urbana,2,421.25,210.62,No pobre,Casa,Si,Si
+H2026110250,2026-11,Azuay,Rural,2,322.65,161.32,Pobre,Casa,Si,No
+H2026110251,2026-11,Pichincha,Urbana,2,160.06,80.03,Pobre,Casa,Si,Si
+H2026110252,2026-11,Azuay,Urbana,3,834.22,278.07,No pobre,Departamento,Si,Si
+H2026110253,2026-11,Cotopaxi,Urbana,2,562.91,281.45,No pobre,Departamento,Si,No
+H2026110254,2026-11,Guayas,Urbana,2,664.54,332.27,No pobre,Casa,Si,Si
+H2026110255,2026-11,Pichincha,Urbana,2,215.32,107.66,Pobre,Casa,Si,No
+H2026110256,2026-11,Azuay,Urbana,3,2159.66,719.89,No pobre,Casa,Si,Si
+H2026110257,2026-11,Guayas,Urbana,4,1892.26,473.06,No pobre,Cuarto,Si,Si
+H2026110258,2026-11,Guayas,Urbana,2,665.92,332.96,No pobre,Departamento,Si,Si
+H2026110259,2026-11,Guayas,Urbana,2,916.37,458.19,No pobre,Casa,Si,Si
+H2026110260,2026-11,Pichincha,Urbana,3,787.29,262.43,No pobre,Departamento,Si,Si
+H2026110261,2026-11,Guayas,Rural,4,2417.09,604.27,No pobre,Cuarto,No,Si
+H2026110262,2026-11,Guayas,Urbana,2,910.30,455.15,No pobre,Casa,Si,Si
+H2026110263,2026-11,Pichincha,Urbana,4,402.66,100.67,Pobre,Departamento,Si,No
+H2026110264,2026-11,Guayas,Rural,3,487.71,162.57,Pobre,Casa,No,Si
+H2026110265,2026-11,Guayas,Rural,4,596.70,149.18,Pobre,Casa,Si,Si
+H2026110266,2026-11,Pichincha,Urbana,1,440.88,440.88,No pobre,Casa,Si,Si
+H2026110267,2026-11,Manabi,Urbana,2,436.46,218.23,No pobre,Departamento,Si,No
+H2026110268,2026-11,Manabi,Rural,1,685.40,685.40,No pobre,Casa,Si,Si
+H2026110269,2026-11,Pichincha,Urbana,3,419.28,139.76,Pobre,Casa,Si,Si
+H2026110270,2026-11,Guayas,Urbana,3,1081.57,360.52,No pobre,Casa,Si,Si
+H2026110271,2026-11,Azuay,Urbana,4,1639.99,410.00,No pobre,Cuarto,Si,Si
+H2026110272,2026-11,Guayas,Urbana,4,1768.63,442.16,No pobre,Departamento,Si,No
+H2026110273,2026-11,Pichincha,Urbana,4,2300.49,575.12,No pobre,Departamento,Si,Si
+H2026110274,2026-11,Pichincha,Urbana,4,2097.42,524.36,No pobre,Departamento,Si,Si
+H2026110275,2026-11,Cotopaxi,Urbana,3,4309.73,1436.58,No pobre,Casa,Si,Si
+H2026110276,2026-11,Pichincha,Urbana,2,401.73,200.87,No pobre,Casa,Si,Si
+H2026110277,2026-11,Pichincha,Urbana,3,1541.98,513.99,No pobre,Cuarto,Si,Si
+H2026110278,2026-11,Pichincha,Urbana,4,940.06,235.01,No pobre,Casa,Si,Si
+H2026110279,2026-11,Guayas,Urbana,2,1136.73,568.37,No pobre,Casa,Si,Si
+H2026110280,2026-11,Pichincha,Urbana,6,1961.45,326.91,No pobre,Departamento,Si,Si
+H2026110281,2026-11,Guayas,Urbana,2,3332.53,1666.27,No pobre,Casa,Si,Si
+H2026110282,2026-11,Azuay,Rural,2,805.39,402.69,No pobre,Departamento,Si,Si
+H2026110283,2026-11,Guayas,Rural,4,852.36,213.09,No pobre,Casa,Si,Si
+H2026110284,2026-11,Azuay,Urbana,3,2174.13,724.71,No pobre,Departamento,Si,Si
+H2026110285,2026-11,Manabi,Urbana,3,709.00,236.33,No pobre,Departamento,Si,Si
+H2026110286,2026-11,Azuay,Urbana,4,461.49,115.37,Pobre,Casa,Si,No
+H2026110287,2026-11,Guayas,Rural,4,2774.36,693.59,No pobre,Departamento,Si,Si
+H2026110288,2026-11,Guayas,Urbana,4,603.29,150.82,Pobre,Casa,Si,No
+H2026110289,2026-11,Manabi,Urbana,4,829.42,207.35,No pobre,Casa,Si,Si
+H2026110290,2026-11,Azuay,Urbana,2,1280.64,640.32,No pobre,Casa,Si,Si
+H2026110291,2026-11,Pichincha,Urbana,2,811.41,405.70,No pobre,Casa,Si,Si
+H2026110292,2026-11,Guayas,Urbana,4,1752.81,438.20,No pobre,Departamento,Si,Si
+H2026110293,2026-11,Guayas,Urbana,2,1043.15,521.58,No pobre,Cuarto,Si,Si
+H2026110294,2026-11,Pichincha,Rural,4,2219.46,554.87,No pobre,Casa,Si,Si
+H2026110295,2026-11,Cotopaxi,Urbana,4,2064.62,516.15,No pobre,Casa,Si,Si
+H2026110296,2026-11,Pichincha,Urbana,4,894.20,223.55,No pobre,Casa,Si,No
+H2026110297,2026-11,Guayas,Urbana,3,640.25,213.42,No pobre,Casa,Si,Si
+H2026110298,2026-11,Manabi,Urbana,2,200.80,100.40,Pobre,Casa,Si,Si
+H2026110299,2026-11,Azuay,Urbana,2,950.06,475.03,No pobre,Departamento,No,Si
+H2026110300,2026-11,Guayas,Rural,3,680.96,226.99,No pobre,Casa,Si,Si
+H2026110301,2026-11,Pichincha,Urbana,3,834.10,278.03,No pobre,Casa,Si,Si
+H2026110302,2026-11,Pichincha,Urbana,4,454.00,113.50,Pobre,Casa,Si,Si
+H2026110303,2026-11,Guayas,Urbana,2,1372.58,686.29,No pobre,Casa,Si,Si
+H2026110304,2026-11,Guayas,Urbana,2,521.17,260.58,No pobre,Departamento,Si,Si
+H2026110305,2026-11,Pichincha,Urbana,1,209.38,209.38,No pobre,Casa,No,Si
+H2026110306,2026-11,Pichincha,Urbana,4,996.92,249.23,No pobre,Casa,Si,No
+H2026110307,2026-11,Guayas,Rural,2,602.31,301.15,No pobre,Casa,Si,Si
+H2026110308,2026-11,Cotopaxi,Urbana,2,2790.25,1395.12,No pobre,Cuarto,Si,Si
+H2026110309,2026-11,Pichincha,Urbana,1,105.19,105.19,Pobre,Departamento,Si,Si
+H2026110310,2026-11,Azuay,Urbana,7,3043.34,434.76,No pobre,Departamento,Si,Si
+H2026110311,2026-11,Guayas,Urbana,2,349.85,174.93,Pobre,Casa,Si,No
+H2026110312,2026-11,Guayas,Rural,1,93.94,93.94,Pobre,Departamento,Si,Si
+H2026110313,2026-11,Guayas,Urbana,3,1614.31,538.10,No pobre,Casa,Si,Si
+H2026110314,2026-11,Pichincha,Rural,4,347.58,86.89,Pobre,Departamento,Si,No
+H2026110315,2026-11,Manabi,Rural,3,238.63,79.54,Pobre,Departamento,Si,Si
+H2026110316,2026-11,Azuay,Urbana,2,1393.24,696.62,No pobre,Departamento,Si,Si
+H2026110317,2026-11,Pichincha,Urbana,5,3364.50,672.90,No pobre,Casa,Si,Si
+H2026110318,2026-11,Pichincha,Urbana,3,2163.30,721.10,No pobre,Casa,Si,Si
+H2026110319,2026-11,Pichincha,Urbana,4,1594.29,398.57,No pobre,Casa,Si,No
+H2026110320,2026-11,Guayas,Urbana,3,1618.13,539.38,No pobre,Departamento,Si,Si
+H2026110321,2026-11,Guayas,Urbana,2,219.93,109.97,Pobre,Departamento,Si,Si
+H2026110322,2026-11,Pichincha,Urbana,3,1940.52,646.84,No pobre,Casa,Si,No
+H2026110323,2026-11,Manabi,Urbana,5,2277.78,455.56,No pobre,Departamento,Si,Si
+H2026110324,2026-11,Azuay,Urbana,2,943.82,471.91,No pobre,Departamento,Si,Si
+H2026110325,2026-11,Pichincha,Rural,3,867.79,289.26,No pobre,Departamento,No,Si
+H2026110326,2026-11,Cotopaxi,Rural,2,846.05,423.02,No pobre,Cuarto,Si,Si
+H2026110327,2026-11,Pichincha,Urbana,4,1013.12,253.28,No pobre,Departamento,No,Si
+H2026110328,2026-11,Pichincha,Urbana,4,887.45,221.86,No pobre,Cuarto,Si,No
+H2026110329,2026-11,Guayas,Urbana,3,783.20,261.07,No pobre,Casa,Si,Si
+H2026110330,2026-11,Azuay,Urbana,5,1180.27,236.05,No pobre,Cuarto,Si,Si
+H2026110331,2026-11,Pichincha,Urbana,2,903.55,451.77,No pobre,Casa,Si,Si
+H2026110332,2026-11,Manabi,Urbana,5,2685.07,537.01,No pobre,Casa,Si,Si
+H2026110333,2026-11,Pichincha,Rural,4,1296.64,324.16,No pobre,Departamento,Si,Si
+H2026110334,2026-11,Guayas,Urbana,2,326.55,163.28,Pobre,Cuarto,Si,Si
+H2026110335,2026-11,Azuay,Urbana,3,1791.66,597.22,No pobre,Casa,Si,Si
+H2026110336,2026-11,Guayas,Urbana,1,72.47,72.47,Pobre,Casa,Si,Si
+H2026110337,2026-11,Pichincha,Urbana,2,252.26,126.13,Pobre,Departamento,Si,Si
+H2026110338,2026-11,Pichincha,Urbana,1,335.80,335.80,No pobre,Casa,Si,Si
+H2026110339,2026-11,Pichincha,Rural,1,268.28,268.28,No pobre,Cuarto,Si,Si
+H2026110340,2026-11,Pichincha,Urbana,2,835.47,417.74,No pobre,Casa,Si,No
+H2026110341,2026-11,Azuay,Urbana,3,1582.85,527.62,No pobre,Cuarto,Si,Si
+H2026110342,2026-11,Pichincha,Urbana,5,2277.92,455.58,No pobre,Casa,Si,Si
+H2026110343,2026-11,Pichincha,Urbana,4,799.98,200.00,No pobre,Cuarto,Si,Si
+H2026110344,2026-11,Guayas,Urbana,6,1233.65,205.61,No pobre,Departamento,Si,Si
+H2026110345,2026-11,Azuay,Urbana,3,930.87,310.29,No pobre,Casa,Si,Si
+H2026110346,2026-11,Pichincha,Urbana,2,1147.91,573.96,No pobre,Departamento,Si,Si
+H2026110347,2026-11,Pichincha,Urbana,1,156.14,156.14,Pobre,Casa,Si,Si
+H2026110348,2026-11,Manabi,Urbana,2,1377.14,688.57,No pobre,Casa,Si,No
+H2026110349,2026-11,Guayas,Urbana,3,403.55,134.52,Pobre,Casa,Si,Si
+H2026110350,2026-11,Azuay,Urbana,2,481.44,240.72,No pobre,Cuarto,No,Si
+H2026110351,2026-11,Pichincha,Urbana,5,1883.77,376.75,No pobre,Departamento,Si,Si
+H2026110352,2026-11,Pichincha,Urbana,2,2461.85,1230.92,No pobre,Casa,Si,Si
+H2026110353,2026-11,Guayas,Urbana,4,1121.76,280.44,No pobre,Departamento,Si,No
+H2026110354,2026-11,Guayas,Urbana,3,770.80,256.93,No pobre,Casa,Si,Si
+H2026110355,2026-11,Guayas,Urbana,3,694.33,231.44,No pobre,Casa,No,Si
+H2026110356,2026-11,Pichincha,Urbana,7,1926.58,275.23,No pobre,Casa,Si,Si
+H2026110357,2026-11,Pichincha,Urbana,3,955.76,318.59,No pobre,Casa,Si,Si
+H2026110358,2026-11,Guayas,Urbana,2,485.98,242.99,No pobre,Casa,Si,Si
+H2026110359,2026-11,Manabi,Urbana,4,513.82,128.46,Pobre,Departamento,Si,Si
+H2026110360,2026-11,Guayas,Urbana,4,680.54,170.13,Pobre,Casa,Si,Si
+H2026110361,2026-11,Cotopaxi,Urbana,3,5492.30,1830.77,No pobre,Cuarto,Si,Si
+H2026110362,2026-11,Pichincha,Rural,2,1413.81,706.90,No pobre,Casa,Si,Si
+H2026110363,2026-11,Pichincha,Urbana,5,1700.23,340.05,No pobre,Casa,Si,Si
+H2026110364,2026-11,Pichincha,Urbana,2,1135.81,567.90,No pobre,Casa,Si,No
+H2026110365,2026-11,Azuay,Urbana,2,467.04,233.52,No pobre,Cuarto,No,Si
+H2026110366,2026-11,Guayas,Rural,2,1311.11,655.55,No pobre,Departamento,Si,Si
+H2026110367,2026-11,Pichincha,Urbana,4,1582.70,395.68,No pobre,Casa,Si,Si
+H2026110368,2026-11,Manabi,Rural,3,436.12,145.37,Pobre,Casa,Si,Si
+H2026110369,2026-11,Manabi,Urbana,2,850.18,425.09,No pobre,Departamento,Si,Si
+H2026110370,2026-11,Pichincha,Urbana,3,282.05,94.02,Pobre,Casa,Si,Si
+H2026110371,2026-11,Azuay,Urbana,2,321.41,160.71,Pobre,Departamento,Si,Si
+H2026110372,2026-11,Manabi,Urbana,3,1552.24,517.41,No pobre,Casa,Si,Si
+H2026110373,2026-11,Manabi,Rural,2,932.56,466.28,No pobre,Departamento,Si,Si
+H2026110374,2026-11,Pichincha,Urbana,4,773.82,193.46,No pobre,Departamento,Si,Si
+H2026110375,2026-11,Pichincha,Rural,4,1161.71,290.43,No pobre,Departamento,Si,Si
+H2026110376,2026-11,Manabi,Urbana,1,106.56,106.56,Pobre,Departamento,Si,Si
+H2026110377,2026-11,Guayas,Urbana,2,567.66,283.83,No pobre,Casa,Si,Si
+H2026110378,2026-11,Pichincha,Urbana,3,1770.03,590.01,No pobre,Casa,Si,Si
+H2026110379,2026-11,Guayas,Rural,6,511.71,85.28,Pobre,Cuarto,Si,Si
+H2026110380,2026-11,Manabi,Urbana,3,1427.06,475.69,No pobre,Casa,Si,Si
+H2026110381,2026-11,Pichincha,Urbana,2,3535.07,1767.54,No pobre,Casa,Si,Si
+H2026110382,2026-11,Guayas,Urbana,4,1836.02,459.00,No pobre,Departamento,Si,Si
+H2026110383,2026-11,Azuay,Urbana,1,319.99,319.99,No pobre,Casa,Si,Si
+H2026110384,2026-11,Azuay,Urbana,4,886.25,221.56,No pobre,Casa,Si,Si
+H2026110385,2026-11,Cotopaxi,Urbana,4,1017.13,254.28,No pobre,Departamento,Si,No
+H2026110386,2026-11,Cotopaxi,Urbana,4,365.08,91.27,Pobre,Casa,Si,No
+H2026110387,2026-11,Pichincha,Rural,4,1787.41,446.85,No pobre,Casa,Si,Si
+H2026110388,2026-11,Pichincha,Urbana,1,497.91,497.91,No pobre,Casa,Si,Si
+H2026110389,2026-11,Manabi,Urbana,2,710.88,355.44,No pobre,Departamento,Si,Si
+H2026110390,2026-11,Pichincha,Urbana,3,737.96,245.99,No pobre,Casa,No,Si
+H2026110391,2026-11,Pichincha,Urbana,3,881.83,293.94,No pobre,Casa,Si,Si
+H2026110392,2026-11,Pichincha,Rural,3,262.29,87.43,Pobre,Cuarto,Si,Si
+H2026110393,2026-11,Pichincha,Rural,3,3120.96,1040.32,No pobre,Cuarto,Si,Si
+H2026110394,2026-11,Pichincha,Urbana,1,145.09,145.09,Pobre,Departamento,Si,Si
+H2026110395,2026-11,Pichincha,Urbana,3,254.00,84.67,Pobre,Departamento,Si,Si
+H2026110396,2026-11,Pichincha,Urbana,2,1403.74,701.87,No pobre,Casa,No,Si
+H2026110397,2026-11,Guayas,Urbana,4,842.81,210.70,No pobre,Casa,Si,Si
+H2026110398,2026-11,Azuay,Urbana,4,1171.13,292.78,No pobre,Cuarto,Si,Si
+H2026110399,2026-11,Pichincha,Urbana,2,2391.62,1195.81,No pobre,Casa,No,Si
+H2026110400,2026-11,Guayas,Urbana,2,326.79,163.40,Pobre,Casa,Si,Si

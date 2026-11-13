@@ -1,0 +1,5 @@
+---
+title: "Metodología"
+---
+
+Descripción de la metodología de validación y depuración de datos.

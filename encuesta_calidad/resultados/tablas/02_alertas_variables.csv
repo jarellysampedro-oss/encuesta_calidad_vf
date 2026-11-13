@@ -1,0 +1,94 @@
+fila_csv,id_encuesta,id_persona,periodo_referencia,regla_id,variable,valor_observado,severidad,descripcion
+360,E20261000359,P20261000359,2026-10,V02,edad,-2,REVISAR,Edad no interpretable o fuera del criterio didáctico
+1078,E20261001077,P20261001077,2026-10,V02,edad,diecinueve,REVISAR,Edad no interpretable o fuera del criterio didáctico
+1194,E20261001193,P20261001193,2026-10,V02,edad,135,REVISAR,Edad no interpretable o fuera del criterio didáctico
+1242,E20261101241,P20261101241,2026-11,V02,edad,tres,REVISAR,Edad no interpretable o fuera del criterio didáctico
+1953,E20261101952,P20261101952,2026-11,V02,edad,-6,REVISAR,Edad no interpretable o fuera del criterio didáctico
+2227,E20261102226,P20261102226,2026-11,V02,edad,120,REVISAR,Edad no interpretable o fuera del criterio didáctico
+9,E20261000008,P20261000008,2026-10,V03,edad,NA,REVISAR,Edad sin respuesta
+58,E20261000057,P20261000057,2026-10,V03,edad,NA,REVISAR,Edad sin respuesta
+196,E20261000195,P20261000195,2026-10,V03,edad,NA,REVISAR,Edad sin respuesta
+350,E20261000349,P20261000349,2026-10,V03,edad,NA,REVISAR,Edad sin respuesta
+398,E20261000397,P20261000397,2026-10,V03,edad,NA,REVISAR,Edad sin respuesta
+442,E20261000441,P20261000441,2026-10,V03,edad,NA,REVISAR,Edad sin respuesta
+466,E20261000465,P20261000465,2026-10,V03,edad,NA,REVISAR,Edad sin respuesta
+720,E20261000719,P20261000719,2026-10,V03,edad,NA,REVISAR,Edad sin respuesta
+1007,E20261001006,P20261001006,2026-10,V03,edad,NA,REVISAR,Edad sin respuesta
+1397,E20261101396,P20261101396,2026-11,V03,edad,NA,REVISAR,Edad sin respuesta
+1961,E20261101960,P20261101960,2026-11,V03,edad,NA,REVISAR,Edad sin respuesta
+2362,E20261102361,P20261102361,2026-11,V03,edad,NA,REVISAR,Edad sin respuesta
+121,E20261000120,P20261000120,2026-10,V04,ingreso_mensual_usd,"950,50",REVISAR,Formato de ingreso no numérico
+319,E20261000318,P20261000318,2026-10,V04,ingreso_mensual_usd,USD 410,REVISAR,Formato de ingreso no numérico
+751,E20261000750,P20261000750,2026-10,V04,ingreso_mensual_usd,"950,50",REVISAR,Formato de ingreso no numérico
+1068,E20261001067,P20261001067,2026-10,V04,ingreso_mensual_usd,"950,50",REVISAR,Formato de ingreso no numérico
+1125,E20261001124,P20261001124,2026-10,V04,ingreso_mensual_usd,"950,50",REVISAR,Formato de ingreso no numérico
+1383,E20261101382,P20261101382,2026-11,V04,ingreso_mensual_usd,USD 410,REVISAR,Formato de ingreso no numérico
+1508,E20261101507,P20261101507,2026-11,V04,ingreso_mensual_usd,USD 410,REVISAR,Formato de ingreso no numérico
+2217,E20261102216,P20261102216,2026-11,V04,ingreso_mensual_usd,"950,50",REVISAR,Formato de ingreso no numérico
+212,E20261000211,P20261000211,2026-10,V05,ingreso_mensual_usd,-125.00,REVISAR,"Ingreso negativo, requiere revisión"
+276,E20261000275,P20261000275,2026-10,V05,ingreso_mensual_usd,-125.00,REVISAR,"Ingreso negativo, requiere revisión"
+1275,E20261101274,P20261101274,2026-11,V05,ingreso_mensual_usd,-125.00,REVISAR,"Ingreso negativo, requiere revisión"
+1411,E20261101410,P20261101410,2026-11,V05,ingreso_mensual_usd,-125.00,REVISAR,"Ingreso negativo, requiere revisión"
+1936,E20261101935,P20261101935,2026-11,V05,ingreso_mensual_usd,-125.00,REVISAR,"Ingreso negativo, requiere revisión"
+2174,E20261102173,P20261102173,2026-11,V05,ingreso_mensual_usd,-125.00,REVISAR,"Ingreso negativo, requiere revisión"
+2221,E20261102220,P20261102220,2026-11,V05,ingreso_mensual_usd,-125.00,REVISAR,"Ingreso negativo, requiere revisión"
+308,E20261000307,P20261000307,2026-10,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+375,E20261000374,P20261000374,2026-10,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+445,E20261000444,P20261000444,2026-10,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+709,E20261000708,P20261000708,2026-10,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+727,E20261000726,P20261000726,2026-10,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+738,E20261000737,P20261000737,2026-10,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+940,E20261000939,P20261000939,2026-10,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+1048,E20261001047,P20261001047,2026-10,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+1131,E20261001130,P20261001130,2026-10,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+1181,E20261001180,P20261001180,2026-10,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+1367,E20261101366,P20261101366,2026-11,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+1416,E20261101415,P20261101415,2026-11,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+1571,E20261101570,P20261101570,2026-11,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+1680,E20261101679,P20261101679,2026-11,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+1755,E20261101754,P20261101754,2026-11,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+1929,E20261101928,P20261101928,2026-11,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+1992,E20261101991,P20261101991,2026-11,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+2072,E20261102071,P20261102071,2026-11,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+2149,E20261102148,P20261102148,2026-11,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+2172,E20261102171,P20261102171,2026-11,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+2182,E20261102181,P20261102181,2026-11,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+2244,E20261102243,P20261102243,2026-11,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+2302,E20261102301,P20261102301,2026-11,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+2357,E20261102356,P20261102356,2026-11,V06,ingreso_mensual_usd,NA,REVISAR,Ingreso no declarado
+198,E20261000197,P20261000197,2026-10,V07,nivel_educacion,SUPERIOR,REVISAR,Categoría educativa fuera de catálogo literal
+295,E20261000294,P20261000294,2026-10,V07,nivel_educacion,99,REVISAR,Categoría educativa fuera de catálogo literal
+487,E20261000486,P20261000486,2026-10,V07,nivel_educacion,99,REVISAR,Categoría educativa fuera de catálogo literal
+733,E20261000732,P20261000732,2026-10,V07,nivel_educacion,SUPERIOR,REVISAR,Categoría educativa fuera de catálogo literal
+866,E20261000865,P20261000865,2026-10,V07,nivel_educacion,99,REVISAR,Categoría educativa fuera de catálogo literal
+1442,E20261101441,P20261101441,2026-11,V07,nivel_educacion,99,REVISAR,Categoría educativa fuera de catálogo literal
+1713,E20261101712,P20261101712,2026-11,V07,nivel_educacion,99,REVISAR,Categoría educativa fuera de catálogo literal
+1783,E20261101782,P20261101782,2026-11,V07,nivel_educacion,SUPERIOR,REVISAR,Categoría educativa fuera de catálogo literal
+1843,E20261101842,P20261101842,2026-11,V07,nivel_educacion,SUPERIOR,REVISAR,Categoría educativa fuera de catálogo literal
+2151,E20261102150,P20261102150,2026-11,V07,nivel_educacion,99,REVISAR,Categoría educativa fuera de catálogo literal
+2179,E20261102178,P20261102178,2026-11,V07,nivel_educacion,SUPERIOR,REVISAR,Categoría educativa fuera de catálogo literal
+2187,E20261102186,P20261102186,2026-11,V07,nivel_educacion,99,REVISAR,Categoría educativa fuera de catálogo literal
+2206,E20261102205,P20261102205,2026-11,V07,nivel_educacion,99,REVISAR,Categoría educativa fuera de catálogo literal
+112,E20261000111,P20261000111,2026-10,V08,provincia,PICHINCHA,REVISAR,Provincia no coincide con catálogo literal
+215,E20261000214,P20261000214,2026-10,V08,provincia,PICHINCHA,REVISAR,Provincia no coincide con catálogo literal
+364,E20261000363,P20261000363,2026-10,V08,provincia,PICHINCHA,REVISAR,Provincia no coincide con catálogo literal
+1472,E20261101471,P20261101471,2026-11,V08,provincia,PICHINCHA,REVISAR,Provincia no coincide con catálogo literal
+1547,E20261101546,P20261101546,2026-11,V08,provincia,Sin provincia,REVISAR,Provincia no coincide con catálogo literal
+1681,E20261101680,P20261101680,2026-11,V08,provincia,Sin provincia,REVISAR,Provincia no coincide con catálogo literal
+1767,E20261101766,P20261101766,2026-11,V08,provincia,Sin provincia,REVISAR,Provincia no coincide con catálogo literal
+2101,E20261102100,P20261102100,2026-11,V08,provincia,PICHINCHA,REVISAR,Provincia no coincide con catálogo literal
+2147,E20261102146,P20261102146,2026-11,V08,provincia,Sin provincia,REVISAR,Provincia no coincide con catálogo literal
+2329,E20261102328,P20261102328,2026-11,V08,provincia,Sin provincia,REVISAR,Provincia no coincide con catálogo literal
+682,E20261000681,P20261000681,2026-10,V09,zona,URBANA,REVISAR,Zona fuera del dominio literal
+993,E20261000992,P20261000992,2026-10,V09,zona,99,REVISAR,Zona fuera del dominio literal
+1361,E20261101360,P20261101360,2026-11,V09,zona,URBANA,REVISAR,Zona fuera del dominio literal
+1431,E20261101430,P20261101430,2026-11,V09,zona,99,REVISAR,Zona fuera del dominio literal
+1866,E20261101865,P20261101865,2026-11,V09,zona,URBANA,REVISAR,Zona fuera del dominio literal
+1975,E20261101974,P20261101974,2026-11,V09,zona,99,REVISAR,Zona fuera del dominio literal
+2047,E20261102046,P20261102046,2026-11,V09,zona,URBANA,REVISAR,Zona fuera del dominio literal
+764,E20261000763,P20261000763,2026-10,V10,fecha_entrevista,2026-11-31,REVISAR,Fecha ISO no interpretable
+990,E20261000989,P20261000989,2026-10,V10,fecha_entrevista,2026-11-31,REVISAR,Fecha ISO no interpretable
+1082,E20261001081,P20261001081,2026-10,V10,fecha_entrevista,2026-11-31,REVISAR,Fecha ISO no interpretable
+1122,E20261001121,P20261001121,2026-10,V10,fecha_entrevista,2026-11-31,REVISAR,Fecha ISO no interpretable
+1410,E20261101409,P20261101409,2026-11,V10,fecha_entrevista,2026-11-31,REVISAR,Fecha ISO no interpretable
+1544,E20261101543,P20261101543,2026-11,V10,fecha_entrevista,2026-11-31,REVISAR,Fecha ISO no interpretable

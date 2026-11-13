@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Informe técnico de calidad de datos"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Inicio
+      - href: metodologia.qmd
+        text: Metodología
+
+lang: es
+
+format:
+  html:
+    toc: true
+    code-fold: true
+
+execute:
+  echo: false

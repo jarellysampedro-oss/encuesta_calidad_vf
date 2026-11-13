@@ -1,0 +1,25 @@
+variable,tipo_esperado,definicion,control_didactico
+id_encuesta,texto,Identificador único del formulario; no confundir con persona,único y presente
+id_persona,texto,Identificador individual sintético,único dentro de período
+id_hogar,texto,Clave de vinculación con tabla hogares,presente y referenciada
+periodo_referencia,texto,Mes de la encuesta,YYYY-MM
+fecha_entrevista,texto,Fecha de registro,YYYY-MM-DD
+provincia,texto,Provincia del hogar,catálogo didáctico
+zona,texto,Zona de residencia,Urbana/Rural
+edad,entero,Edad en años cumplidos,18–110 para el ejercicio
+sexo,texto,Sexo declarado (categoría didáctica),Mujer/Hombre
+nivel_educacion,texto,Máximo nivel educativo declarado,catálogo didáctico
+anios_escolaridad,entero,Años de educación completados,0–25
+condicion_actividad,texto,Situación declarada de actividad,Ocupado/Desocupado/Inactivo
+horas_trabajo_semana,entero,Horas trabajadas en semana de referencia,0–80
+ingreso_mensual_usd,decimal,Ingreso total personal mensual sintético,USD y punto decimal; ≥0
+fuente_ingreso,texto,Fuente principal declarada,Trabajo/Comercio/Transferencia/Otros
+acceso_internet,texto,Acceso declarado a Internet,Si/No
+acceso_computador,texto,Acceso declarado a computador,Si/No
+tipo_vivienda,texto,Tipo de vivienda del hogar,Casa/Departamento/Cuarto
+miembros_hogar,entero,Tamaño del hogar registrado,≥1; coherencia entre archivos
+ingreso_hogar_mensual_usd,decimal,Ingreso agregado del hogar,USD; derivado sintético
+ingreso_per_capita_usd,decimal,Ingreso hogar / número de miembros,USD/mes/persona
+pobreza_didactica,texto,Clasificación del umbral educativo USD 185,Pobre/No pobre
+acceso_agua,texto,Acceso declarado a agua,Si/No
+acceso_saneamiento,texto,Acceso declarado a saneamiento,Si/No
